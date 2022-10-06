@@ -20,8 +20,8 @@ require("./partials/header.php");
 </div>
 <div class="container" style="margin-top: -4rem;">
     <div class="row">
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-            <div class="card">
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
+            <div class="card h-100">
                 <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
                 <div class="card-body">
                     <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
@@ -37,8 +37,8 @@ require("./partials/header.php");
             </div>
         </div>
     
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-            <div class="card">
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
+            <div class="card h-100">
                 <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/australia.svg" alt="Card image cap">
                 <div class="card-body">
                     <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Australia</h2>
@@ -53,7 +53,37 @@ require("./partials/header.php");
             </div>
         </div>
 
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
+            <div class="card h-100">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/germany.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">germany</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/germany/job-seeker">Job Seeker Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/germany/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/germany/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/germany/">Business Visa</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
+            <div class="card h-100">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/united-states-of-america.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">USA</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/usa/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/usa/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/usa/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/usa/">Dependent Visa</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
             <div class="card">
                 <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
                 <div class="card-body">
@@ -70,41 +100,7 @@ require("./partials/header.php");
             </div>
         </div>
 
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-            <div class="card">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
-            <div class="card">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
             <div class="card">
                 <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
                 <div class="card-body">
