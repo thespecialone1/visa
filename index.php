@@ -87,35 +87,18 @@ require("./partials/header.php");
             <div class="card">
                 <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
                 <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">UK</h2>
                     <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/uk/skilled-worker-visa">Skilled Worker Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/uk/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/uk/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/uk/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/uk/">Dependent Visa</a></li>
                     </ul>
                 </div>
             </div>
         </div>
 
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
-            <div class="card">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
     </div>
 
 </div>
@@ -258,67 +241,6 @@ require("./partials/header.php");
                     </div>
                 </div>
                 <!-- /.card testimonial start -->
-            </div>
-        </div>
-    </div>
-</div>
-<div class="space-medium bg-light">
-    <!-- News section -->
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                <div class="section-title mb60">
-                    <!-- section title start-->
-                    <h2>Resources &amp; News</h2>
-                </div>
-                <!-- /.section title start-->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                <div class="post-holder">
-                    <div class="post-img zoomimg">
-                        <a href="#"><img src="images/post-img-2.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
-                    </div>
-                    <div class="post-header">
-                        <h2 class="post-title"><a href="#" class="title">Visa Immigrations Responsive Web Design Templates</a></h2>
-                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
-                    </div>
-                    <div class="post-content">
-                        <p>Short description for page header hasellus leo lorem, cursus quis congue in pretium et massa orbi commodo telludolo vitae ornare augue.</p>
-                        <a href="#" class="btn btn-default">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                <div class="post-holder">
-                    <div class="post-img zoomimg">
-                        <a href="#"><img src="images/post-img-1.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
-                    </div>
-                    <div class="post-header">
-                        <h2 class="post-title"><a href="#" class="title">Bootstrap Website Template for Visa Consultant</a></h2>
-                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
-                    </div>
-                    <div class="post-content">
-                        <p>Proin pulvinar accumsan lectusfeugiat, a sollicitudin massa imperdiet. Phasellus ac ex ligula. Nulla egestas lobortis mattis.</p>
-                        <a href="#" class="btn btn-default">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                <div class="post-holder">
-                    <div class="post-img zoomimg">
-                        <a href="#"><img src="images/post-img-4.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
-                    </div>
-                    <div class="post-header">
-                        <h2 class="post-title"><a href="#" class="title">Start Your Bootstrap Blog Page Design</a></h2>
-                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
-                    </div>
-                    <div class="post-content">
-                        <p>Proin pulvinar accumsan lectus, ut sagittis nislodio fetudin massa imperdiet. Phasellus ac ex ligula. Nulla egestas lobortis mattis.</p>
-                        <a href="#" class="btn btn-default">Read More</a>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
