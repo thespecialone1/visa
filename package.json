@@ -1,0 +1,12 @@
+{
+  "name": "visa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MazanLabeeb/visa.git",
+  "author": "mazanlabeeb <mazanlabeeb95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "sass": "^1.55.0"
+  }
+}

@@ -1,6 +1,7 @@
 <?php
 require("./partials/header.php");
 ?>
+
 <!-- slider -->
 <br><br><br><br>
 <div class="space-medium" stle="padding-top: 0 !important; margin-top:20rem !important;">
@@ -9,7 +10,7 @@ require("./partials/header.php");
             <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="section-title text-center">
                     <!-- section title start-->
-                    <h2>Immigration - Choose your country!</h2>
+                    <h2 class="text-primary">Immigration - Choose your country!</h2>
                 </div>
                 <!-- /.section title start-->
             </div>

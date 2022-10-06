@@ -13,7 +13,10 @@
     <meta name="keywords" content="consulting websites templates">
     <title>VisaPress - Visa Immigration Consulting Website Template</title>
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- custom bootstrap  -->
+    <link rel="stylesheet" href="css/sass/custom.css">
+
     <!-- FontAwesome 4.0 CSS -->
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
     <!-- Google Font CSS -->
@@ -110,11 +113,11 @@
                                 <a href="/visa/pr">USA</a>
                                 <ul>
 
-                                    <li ><a href="/migrate/usa/">Migrate</a></li>
-                                    <li ><a href="/visa/study/usa/">Study Visa</a></li>
-                                    <li ><a href="/visa/visit/usa/">Visit Visa</a></li>
-                                    <li ><a href="/visa/business/usa/">Business Visa</a></li>
-                                    <li ><a href="/visa/business/usa/">Dependent Visa</a></li>
+                                    <li><a href="/migrate/usa/">Migrate</a></li>
+                                    <li><a href="/visa/study/usa/">Study Visa</a></li>
+                                    <li><a href="/visa/visit/usa/">Visit Visa</a></li>
+                                    <li><a href="/visa/business/usa/">Business Visa</a></li>
+                                    <li><a href="/visa/business/usa/">Dependent Visa</a></li>
 
                                 </ul>
                             </li>
@@ -122,18 +125,18 @@
                                 <a href="/visa/visit">UK</a>
                                 <ul>
 
-                                    <li ><a href="/migrate/uk/">Migrate</a></li>
-                                    <li ><a href="/visa/uk/skilled-worker-visa">Skilled Worker Visa</a></li>
-                                    <li ><a href="/visa/study/uk/">Study Visa</a></li>
-                                    <li ><a href="/visa/visit/uk/">Visit Visa</a></li>
-                                    <li ><a href="/visa/business/uk/">Business Visa</a></li>
-                                    <li ><a href="/visa/dependent/uk/">Dependent Visa</a></li>
+                                    <li><a href="/migrate/uk/">Migrate</a></li>
+                                    <li><a href="/visa/uk/skilled-worker-visa">Skilled Worker Visa</a></li>
+                                    <li><a href="/visa/study/uk/">Study Visa</a></li>
+                                    <li><a href="/visa/visit/uk/">Visit Visa</a></li>
+                                    <li><a href="/visa/business/uk/">Business Visa</a></li>
+                                    <li><a href="/visa/dependent/uk/">Dependent Visa</a></li>
 
                                 </ul>
                             </li>
                             <li><a href="#">About Us </a>
                                 <ul>
-                                    
+
                                     <li><a href="./../founder-page.html">Founder page</a></li>
                                     <li><a href="./../founder-page.html">Founder page</a></li>
                                     <li><a href="./../agent-list-page.html">Agent List</a></li>
