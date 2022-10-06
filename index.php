@@ -1,11 +1,9 @@
 <?php
 require("./partials/header.php");
 ?>
-<br>
-<BR>
 <!-- slider -->
-<div class="slanting-pattern"></div>
-<div class="space-medium">
+<br><br><br><br>
+<div class="space-medium" stle="padding-top: 0 !important; margin-top:20rem !important;">
     <div class="container">
         <div class="row">
             <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">

@@ -43,7 +43,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 d-none d-sm-none d-lg-block d-xl-block">
                         <p class="welcome-text">Welcome to visapress a immigration company website template</p>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                    <div class="col-xl-12 col-lg-6 col-md-12 col-sm-12 col-12">
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block d-md-block"><a href="#">Talk to Our Expert</a></span>
                             <span class="header-link">+1 800 123 4567</span>
@@ -63,52 +63,26 @@
                     <div id="navigation-transparent" class="navigation-transparent">
                         <!-- navigation -->
                         <ul>
-                            <li><a href="#">Home</a>
-                                <ul>
-                                    <li><a href="./../index-2.html">Homepage v1</a></li>
-                                    <li><a href="./../index-4.html">Homepage v2</a></li>
-                                    <li><a href="./../index-3.html">Homepage v3</a></li>
-                                    <li><a href="./../index-5.html">Homepage v4</a></li>
-                                    <li><a href="./../index-6.html">Homepage v5</a></li>
-                                    <li><a href="./../index-7.html">Homepage v6</a></li>
-                                    <li><a href="#">Landing pages</a>
-                                        <ul>
-                                            <li><a href="./../landing-page-v1.html">Landing page v1</a></li>
-                                            <li><a href="./../landing-page-country-v1.html">Landing page country v1</a></li>
-                                            <li><a href="./../landing-page-ebook-v3.html">Landing page v3 - eBook</a></li>
-                                            <li><a href="./../landing-page-webinar.html">Landing page v4 - Webinars</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                            <li>
+                                <a href="/">Home</a>
                             </li>
-                            <li><a href="#">Coaching</a>
-                                <ul>
-                                    <li><a href="./../coaching-list-page.html">Coaching List</a></li>
-                                    <li><a href="./../coaching-sidebar.html">Coaching Sidebar</a></li>
-                                    <li><a href="./../coaching-full-page.html">Coaching Full Page</a></li>
-                                </ul>
+                            <li>
+                                <a href="/migrate">Migrate</a>                             
                             </li>
-                            <li><a href="#">Visas</a>
-                                <ul>
-                                    <li><a href="./../visa-immigration-list-page.html">Visa List Page</a></li>
-                                    <li><a href="./../visa-immigration-single-page.html">Visa Single Page</a></li>
-                                </ul>
+                            <li>
+                                <a href="/visa/study">Study</a>
                             </li>
-                            <li><a href="#">Country</a>
-                                <ul>
-                                    <li><a href="./../country-list-page.html">Country List Page</a></li>
-                                    <li><a href="./../country-img-list-page.html">Country List Page v2 </a></li>
-                                    <li><a href="./../country-single-page.html">Country Single Page</a></li>
-                                    <li><a href="./../country-single-full-page.html">Country Full Page</a></li>
-                                </ul>
+                            <li>
+                                <a href="/visa/business">Business</a>                             
                             </li>
-                            <li><a href="#">About us </a>
+                            <li>
+                                <a href="/visa/pr">PR VISAS</a>                             
+                            </li>
+                            <li>
+                                <a href="/visa/visit">VISIT</a>                             
+                            </li>
+                            <li><a href="#">About Us </a>
                                 <ul>
-                                    <li><a href="#">About Us</a>
-                                        <ul>
-                                            <li><a href="./../.about-us-page-v1.html">About us v1</a></li>
-                                        </ul>
-                                    </li>
                                     <li><a href="./../founder-page.html">Founder page</a></li>
                                     <li><a href="./../agent-list-page.html">Agent List</a></li>
                                     <li><a href="./../agent-single-page.html">Agent Single</a></li>
@@ -159,14 +133,7 @@
                                     <li><a href="./../faq-page.html">Faq</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Blog </a>
-                                <ul>
-                                    <li><a href="./../blog-page.html">Blog Regular</a></li>
-                                    <li><a href="./../blog-3-column-page.html">Blog Listing 3 Column</a></li>
-                                    <li><a href="./../blog-single-page.html">Blog Single</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Contactus </a>
+                            <li><a href="#">Contact Us </a>
                                 <ul>
                                     <li><a href="./../contact-page.html">Contact Us</a></li>
                                     <li><a href="./../location-page.html">Location</a></li>
