@@ -584,7 +584,7 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 .logo { display: block; }
 .navigation-transparent { padding-top: 20px; padding-bottom: 20px; display: block; }
 .header-transparent { background: rgba(41, 85, 158, .75); position: fixed; z-index: 9; width: 100%; padding-bottom: 10px; }
-.topbar-transparent { font-size: 13px; border-bottom: 1px dotted rgba(120, 125, 130, .8); font-weight: 300; background: transparent; color: #fff; margin-bottom: 10px; }
+.topbar-transparent { font-size: 13px; border-bottom: 1px dotted white; font-weight: 300; background: transparent; color: #fff; margin-bottom: 10px; }
 .topbar-transparent .header-link { border-left: 1px dotted rgba(120, 125, 130, .8); height: 40px; float: left; padding-left: 14px; padding-right: 14px; padding-top: 5px; }
 .topbar-transparent .header-link a { color: #fff; }
 
