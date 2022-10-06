@@ -1,4 +1,40 @@
-<!-- /.topbar -->
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from jituchauhan.com/visa/visapress/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 10:15:53 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="best visa immigration business consulting websites templates">
+    <meta name="keywords" content="consulting websites templates">
+    <title>VisaPress - Visa Immigration Consulting Website Template</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- FontAwesome 4.0 CSS -->
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <!-- Google Font CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700%7cPT+Serif:400,400i,700,700i" rel="stylesheet">
+    <!-- owl.carousel.min.css -->
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+    <!-- fontello.css -->
+    <link rel="stylesheet" type="text/css" href="css/fontello.css">
+    <!-- Style CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <!-- /.topbar -->
 <div class="header-transparent">
         <div class="topbar-transparent">
             <!-- topbar transparent-->
@@ -22,7 +58,7 @@
         <!-- header classic -->
         <div class="container">
             <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="./../index-3.html" class="logo"><img src="./../images/logo-3.png" alt="Visapress an Immigration and Visa Consulting Website Template"></a></div>
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="./../index-3.html" class="logo"><img src="images/logo-3.png" alt="Visapress an Immigration and Visa Consulting Website Template"></a></div>
                 <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div id="navigation-transparent" class="navigation-transparent">
                         <!-- navigation -->

@@ -384,7 +384,9 @@ Copy text}
 /*---------4.15 Bootstrap Card Design Components----------*/
 .card { border-radius: 0px; border: 1px solid #e2e6ea; }
 .card-body { padding: 30px; }
-.card-title { }
+.card-title {
+    text-transform: uppercase !important;
+ }
 .card-subtitle { }
 .card-link { }
 .card-outline-transparent{border:2px solid rgba(255, 255, 255, .2); background-color: transparent; border-radius: 4px; color: #fff; margin-bottom: 30px; transition: .5s ease;}

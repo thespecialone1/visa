@@ -1,767 +1,335 @@
-<!DOCTYPE html>
-<html lang="en">
-
-
-<!-- Mirrored from jituchauhan.com/visa/visapress/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 10:15:53 GMT -->
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="best visa immigration business consulting websites templates">
-    <meta name="keywords" content="consulting websites templates">
-    <title>VisaPress - Visa Immigration Consulting Website Template</title>
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- FontAwesome 4.0 CSS -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-    <!-- Google Font CSS -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700%7cPT+Serif:400,400i,700,700i" rel="stylesheet">
-    <!-- owl.carousel.min.css -->
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
-    <!-- fontello.css -->
-    <link rel="stylesheet" type="text/css" href="css/fontello.css">
-    <!-- Style CSS -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-</head>
-
-<body>
-    <?php 
-        require("./partials/header.php");
+<?php
+require("./partials/header.php");
 ?>
-    <!-- slider -->
-    <div class="slanting-pattern"></div>
-    <div class="space-medium">
-        <div class="container">
-            <div class="row">
-                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
-                    <div class="section-title text-center">
-                        <!-- section title start-->
-                        <h2>Immigration - Choose your country!</h2>
-                        <p> Fusce venenatis lectus non est congueitae malesuada neque lacinia. </p>
-                    </div>
-                    <!-- /.section title start-->
+<br>
+<BR>
+<!-- slider -->
+<div class="slanting-pattern"></div>
+<div class="space-medium">
+    <div class="container">
+        <div class="row">
+            <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12">
+                <div class="section-title text-center">
+                    <!-- section title start-->
+                    <h2>Immigration - Choose your country!</h2>
                 </div>
-            </div>
-            <div class="row mt60">
-                <div class="col-xl-12 col-lg-12 col-sm-12 col-md-12 col-12">
-                    <div class="visa-section visa-tabs">
-                        <!-- Nav tabs -->
-                        <ul class="nav nav-pills" id="myTab" role="tablist">
-                            <li class="nav-item">
-                                <a class="nav-link active" id="canada-tab" data-toggle="tab" href="#canada" role="tab" aria-controls="canada" aria-selected="true"><span><img src="images/country/canada.svg" alt="" class="flag-xs"></span> Canada</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="australia-tab" data-toggle="tab" href="#australia" role="tab" aria-controls="australia" aria-selected="false"><span><img src="images/country/australia.svg" alt=""  class="flag-xs"></span> Australia</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="united-kingdom-tab" data-toggle="tab" href="#united-kingdom" role="tab" aria-controls="united-kingdom" aria-selected="false"><span> <img src="images/country/united-kingdom.svg" alt=""  class="flag-xs"></span> United Kingdom</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="usa-tab" data-toggle="tab" href="#usa" role="tab" aria-controls="usa" aria-selected="false"> <span><img src="images/country/united-states-of-america.svg" alt=""  class="flag-xs"></span>  USA</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="germany-tab" data-toggle="tab" href="#germany" role="tab" aria-controls="germany" aria-selected="false"> <span><img src="images/country/germany.svg" alt=""  class="flag-xs"></span> Germany</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="singapore-tab" data-toggle="tab" href="#singapore" role="tab" aria-controls="singapore" aria-selected="false"> <span><img src="images/country/singapore.svg" alt=""  class="flag-xs"></span>  Singapore</a>
-                            </li>
-                        </ul>
-                        <!-- Tab panes -->
-                        <div class="tab-content">
-                            <div class="tab-pane active fade show" id="canada" role="tabpanel" aria-labelledby="canada-tab">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Student Visa</a></h3>
-                                                <p>Studying In The canada The generom repetition jected humour, or non-characteristic words etc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Business Visa</a></h3>
-                                                <p>Quam semper simple dummy eleifend lorem in imperdiet mauris estibulum et efficitur lorem ipsum.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Job Seeker Visa</a></h3>
-                                                <p>Duis id quam semper, eleifend lorem in, imperdiet mauris simple estibulum imple et efficitur nunc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Tourist & Visitor Visa</a></h3>
-                                                <p>Suspendisse lobortis eros ac blan mi aliquet justo sit amet aliquet nunc simple dummy content risus a felis</p>
-                                                <a href="#" class="btn-link">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="australia" role="tabpanel" aria-labelledby="australia-tab">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Business Visa</a></h3>
-                                                <p>Quam semper simple dummy eleifend lorem in imperdiet mauris estibulum et efficitur lorem ipsum.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Student Visa</a></h3>
-                                                <p>Studying In The canada The generom repetition jected humour, or non-characteristic words etc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Business Visa</a></h3>
-                                                <p>Quam semper simple dummy eleifend lorem in imperdiet mauris estibulum et efficitur lorem ipsum.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Job Seeker Visa</a></h3>
-                                                <p>Duis id quam semper, eleifend lorem in, imperdiet mauris simple estibulum imple et efficitur nunc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="united-kingdom" role="tabpanel" aria-labelledby="united-kingdom-tab">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Job Seeker Visa</a></h3>
-                                                <p>Duis id quam semper, eleifend lorem in, imperdiet mauris simple estibulum imple et efficitur nunc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Student Visa</a></h3>
-                                                <p>Studying In The canada The generom repetition jected humour, or non-characteristic words etc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Business Visa</a></h3>
-                                                <p>Quam semper simple dummy eleifend lorem in imperdiet mauris estibulum et efficitur lorem ipsum.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Tourist & Visitor Visa</a></h3>
-                                                <p>Suspendisse lobortis eros ac blan mi aliquet justo sit amet aliquet nunc simple dummy content risus a felis</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="usa" role="tabpanel" aria-labelledby="usa-tab">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Tourist & Visitor Visa</a></h3>
-                                                <p>Suspendisse lobortis eros ac blan mi aliquet justo sit amet aliquet nunc simple dummy content risus a felis</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Student Visa</a></h3>
-                                                <p>Studying In The canada The generom repetition jected humour, or non-characteristic words etc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Business Visa</a></h3>
-                                                <p>Quam semper simple dummy eleifend lorem in imperdiet mauris estibulum et efficitur lorem ipsum.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Job Seeker Visa</a></h3>
-                                                <p>Duis id quam semper, eleifend lorem in, imperdiet mauris simple estibulum imple et efficitur nunc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="germany" role="tabpanel" aria-labelledby="germany-tab">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Tourist & Visitor Visa</a></h3>
-                                                <p>Suspendisse lobortis eros ac blan mi aliquet justo sit amet aliquet nunc simple dummy content risus a felis</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Student Visa</a></h3>
-                                                <p>Studying In The canada The generom repetition jected humour, or non-characteristic words etc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Business Visa</a></h3>
-                                                <p>Quam semper simple dummy eleifend lorem in imperdiet mauris estibulum et efficitur lorem ipsum.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Job Seeker Visa</a></h3>
-                                                <p>Duis id quam semper, eleifend lorem in, imperdiet mauris simple estibulum imple et efficitur nunc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="singapore" role="tabpanel" aria-labelledby="singapore-tab">
-                                <div class="row">
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Tourist & Visitor Visa</a></h3>
-                                                <p>Suspendisse lobortis eros ac blan mi aliquet justo sit amet aliquet nunc simple dummy content risus a felis</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Student Visa</a></h3>
-                                                <p>Studying In The canada The generom repetition jected humour, or non-characteristic words etc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Business Visa</a></h3>
-                                                <p>Quam semper simple dummy eleifend lorem in imperdiet mauris estibulum et efficitur lorem ipsum.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
-                                        <div class="visa-card">
-                                            <div class="visa-card-img zoomimg">
-                                                <a href="#"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
-                                            </div>
-                                            <div class="visa-card-content">
-                                                <h3 class="visa-card-title"><a href="#" class="title">Job Seeker Visa</a></h3>
-                                                <p>Duis id quam semper, eleifend lorem in, imperdiet mauris simple estibulum imple et efficitur nunc.</p>
-                                                <a href="#" class="btn-link-primary">Read More</a>
-                                            </div>
-                                            <div class="slanting-pattern-small"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <!-- /.section title start-->
             </div>
         </div>
     </div>
-    <div class="space-large bg-light">
-        <!-- Service section -->
-        <div class="container">
-            <div class="row">
-                <div class="offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-xs-12">
-                    <div class="section-title text-center">
-                        <!-- section title start-->
-                        <h2>Why Visapress Immigration?</h2>
-                        <p> Since our founding, our primary goal has been to provide immigration in all over country and universities. Our impact is speak louder than our word.</p>
-                    </div>
-                    <!-- /.section title start-->
-                </div>
-            </div>
-            <div class="mt80">
-                <div class="impact-section">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                            <div class="impact-block">
-                                <div class="impact-icon mb40 icon-default"><i class="icon-student-1"></i></div>
-                                <h2 class="impact-title">480+</h2>
-                                <p class="impact-text">Students</p>
-                                <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
-                                <a href="#" class="btn-link"> View Testimonial</a>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                            <div class="impact-block">
-                                <div class="impact-icon mb40 icon-default"><i class="icon-diploma"></i></div>
-                                <h2 class="impact-title">90+</h2>
-                                <p class="impact-text"> Immigration</p>
-                                <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                            <div class="impact-block">
-                                <div class="impact-icon mb40 icon-default"><i class="icon-university"></i></div>
-                                <h2 class="impact-title">30+</h2>
-                                <p class="impact-text">Universities</p>
-                                <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
-                                <a href="#" class="btn-link"> Meet The Partner</a>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
-                            <div class="impact-block">
-                                <div class="impact-icon mb40 icon-default"><i class="icon-earth-globe"></i></div>
-                                <h2 class="impact-title">20+</h2>
-                                <p class="impact-text">Country</p>
-                                <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /.Service section -->
-    <div class="space-medium">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-7 col-sm-6 col-12">
-                    <h2>Immigration Services From <br> Experienced Lawyers</h2>
-                    <p class="lead">Trusted by 1224+ clients from 20 countries</p>
-                    <p>We've been counselling students for educational opportunities in Foreign countries and have been helping them realise their dream of studying abroad.</p>
-                    <ul class="check-circle listnone">
-                        <li>Near 100% Success Rate</li>
-                        <li>Flat Fee - No hidden costs</li>
-                        <li>Helping Customers For 13 Years</li>
-                        <li>Fast, Easy & Secure Online Process</li>
-                        <li>100% Accurate Filing Is Guaranteed
-                        </li>
-                        <li>Exam Preparation Information</li>
+</div>
+<div class="container" style="margin-top: -4rem;">
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+            <div class="card">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
                     </ul>
-                    <a href="#" class="btn btn-default">About visa press</a> <a href="#" class="btn btn-primary">Contact us</a>
                 </div>
-                <div class="col-xl-6 col-lg-6 col-md-5 col-sm-6 col-12">
-                    <div class="img-block">
-                        <img src="images/about-fancy-img-1.png" alt="simple bootstrap template" class="img-fluid">
-                        <span><a href="https://www.youtube.com/embed/kSoO2KjVVG4" class="btn-round-play video" id=""><i class="fa fa-play"></i></a></span>
+            </div>
+        </div>
+    
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+            <div class="card">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/australia.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Australia</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/australia/">PR Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/australia/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/australia/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/australia/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/australia/">Dependent Visa</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+            <div class="card">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+            <div class="card">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+            <div class="card">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+            <div class="card">
+                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
+                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
+                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="space-large bg-light">
+    <!-- Service section -->
+    <div class="container">
+        <div class="row">
+            <div class="offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-xs-12">
+                <div class="section-title text-center">
+                    <!-- section title start-->
+                    <h2>Why Visapress Immigration?</h2>
+                    <p> Since our founding, our primary goal has been to provide immigration in all over country and universities. Our impact is speak louder than our word.</p>
+                </div>
+                <!-- /.section title start-->
+            </div>
+        </div>
+        <div class="mt80">
+            <div class="impact-section">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                        <div class="impact-block">
+                            <div class="impact-icon mb40 icon-default"><i class="icon-student-1"></i></div>
+                            <h2 class="impact-title">480+</h2>
+                            <p class="impact-text">Students</p>
+                            <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
+                            <a href="#" class="btn-link"> View Testimonial</a>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                        <div class="impact-block">
+                            <div class="impact-icon mb40 icon-default"><i class="icon-diploma"></i></div>
+                            <h2 class="impact-title">90+</h2>
+                            <p class="impact-text"> Immigration</p>
+                            <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                        <div class="impact-block">
+                            <div class="impact-icon mb40 icon-default"><i class="icon-university"></i></div>
+                            <h2 class="impact-title">30+</h2>
+                            <p class="impact-text">Universities</p>
+                            <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
+                            <a href="#" class="btn-link"> Meet The Partner</a>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                        <div class="impact-block">
+                            <div class="impact-icon mb40 icon-default"><i class="icon-earth-globe"></i></div>
+                            <h2 class="impact-title">20+</h2>
+                            <p class="impact-text">Country</p>
+                            <p>Maecenas non augue sit amet tortor vehicula sagitulaa tempus, sit amet porttitor nisi rutrum.</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="space-medium">
-        <div class="container">
-            <div class="row">
-                <div class="offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-xs-12">
-                    <div class="section-title text-center mb60">
-                        <!-- section title start-->
-                        <h2>What our Clients say about us. Client Testimonials</h2>
-                        <!-- /.section title start-->
+</div>
+<!-- /.Service section -->
+<div class="space-medium">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-7 col-sm-6 col-12">
+                <h2>Immigration Services From <br> Experienced Lawyers</h2>
+                <p class="lead">Trusted by 1224+ clients from 20 countries</p>
+                <p>We've been counselling students for educational opportunities in Foreign countries and have been helping them realise their dream of studying abroad.</p>
+                <ul class="check-circle listnone">
+                    <li>Near 100% Success Rate</li>
+                    <li>Flat Fee - No hidden costs</li>
+                    <li>Helping Customers For 13 Years</li>
+                    <li>Fast, Easy & Secure Online Process</li>
+                    <li>100% Accurate Filing Is Guaranteed
+                    </li>
+                    <li>Exam Preparation Information</li>
+                </ul>
+                <a href="#" class="btn btn-default">About visa press</a> <a href="#" class="btn btn-primary">Contact us</a>
+            </div>
+            <div class="col-xl-6 col-lg-6 col-md-5 col-sm-6 col-12">
+                <div class="img-block">
+                    <img src="images/about-fancy-img-1.png" alt="simple bootstrap template" class="img-fluid">
+                    <span><a href="https://www.youtube.com/embed/kSoO2KjVVG4" class="btn-round-play video" id=""><i class="fa fa-play"></i></a></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="space-medium">
+    <div class="container">
+        <div class="row">
+            <div class="offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-xs-12">
+                <div class="section-title text-center mb60">
+                    <!-- section title start-->
+                    <h2>What our Clients say about us. Client Testimonials</h2>
+                    <!-- /.section title start-->
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card-testimonial card-testimonial-light">
+                    <!-- card testimonial start -->
+                    <div class="card-testimonial-img"><img src="images/card-testimonial-img-1.jpg" alt="" class="rounded-circle"></div>
+                    <div class="card-testimonial-content">
+                        <p class="card-testimonial-text">“Fusce non mi at nisl laoreet pretiumulla ut elementum sapien, a pulvinar augueed semper sed tellus in ultrices am simply dummy content hendrerit elit vel urna fermentum congue. . ”</p>
+                    </div>
+                    <div class="card-testimonial-info">
+                        <span class="card-testimonial-flag"><img src="images/country/canada.svg" class="flag-small"></span>
+                        <h4 class="card-testimonial-name">Dustin A. Morgan</h4>
+                        <p><small>( Canada Students Visa )</small></p>
+                    </div>
+                </div>
+                <!-- /.card testimonial start -->
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card-testimonial card-testimonial-light">
+                    <!-- card testimonial start -->
+                    <div class="card-testimonial-img"><img src="images/card-testimonial-img-2.jpg" alt="" class="rounded-circle"></div>
+                    <div class="card-testimonial-content">
+                        <p class="card-testimonial-text">“Nulla facilisi. Phasellus maximus odio bibendum tortor scelerisque, quis fermentum nulla ornare. Praesent malesuada lorem nec mauris vulputate, viverra tempus felis consequat.”</p>
+                    </div>
+                    <div class="card-testimonial-info">
+                        <span class="card-testimonial-flag"><img src="images/country/united-states-of-america.svg" class="flag-small"></span>
+                        <h4 class="card-testimonial-name">Sandra M. Lebrun</h4>
+                        <p><small>( USA PR visa )</small></p>
+                    </div>
+                </div>
+                <!-- /.card testimonial start -->
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                <div class="card-testimonial card-testimonial-light">
+                    <!-- card testimonial start -->
+                    <div class="card-testimonial-img"><img src="images/card-testimonial-img-3.jpg" alt="" class="rounded-circle"></div>
+                    <div class="card-testimonial-content">
+                        <p class="card-testimonial-text">“Sed sollicitudin, ex id lacinia sagittis, lacus lacus ruNulla in ex ut orci pretium congue quis id nunc. trum lus nulla nunc rutrum est. Pellentesque sit amet elementum risus.”</p>
+                    </div>
+                    <div class="card-testimonial-info">
+                        <span class="card-testimonial-flag"><img src="images/country/united-kingdom.svg" class="flag-small"></span>
+                        <h4 class="card-testimonial-name">Roger N. Towle</h4>
+                        <p><small>( UK Tier 1 visa )</small></p>
+                    </div>
+                </div>
+                <!-- /.card testimonial start -->
+            </div>
+        </div>
+    </div>
+</div>
+<div class="space-medium bg-light">
+    <!-- News section -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="section-title mb60">
+                    <!-- section title start-->
+                    <h2>Resources &amp; News</h2>
+                </div>
+                <!-- /.section title start-->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                <div class="post-holder">
+                    <div class="post-img zoomimg">
+                        <a href="#"><img src="images/post-img-2.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
+                    </div>
+                    <div class="post-header">
+                        <h2 class="post-title"><a href="#" class="title">Visa Immigrations Responsive Web Design Templates</a></h2>
+                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
+                    </div>
+                    <div class="post-content">
+                        <p>Short description for page header hasellus leo lorem, cursus quis congue in pretium et massa orbi commodo telludolo vitae ornare augue.</p>
+                        <a href="#" class="btn btn-default">Read More</a>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="card-testimonial card-testimonial-light">
-                        <!-- card testimonial start -->
-                        <div class="card-testimonial-img"><img src="images/card-testimonial-img-1.jpg" alt="" class="rounded-circle"></div>
-                            <div class="card-testimonial-content">
-                                <p class="card-testimonial-text">“Fusce non mi at nisl laoreet pretiumulla ut elementum sapien, a pulvinar augueed semper sed tellus in ultrices am simply dummy content hendrerit elit vel urna fermentum congue. . ”</p>
-                            </div>
-                            <div class="card-testimonial-info">
-                                <span class="card-testimonial-flag"><img src="images/country/canada.svg" class="flag-small"></span>
-                                <h4 class="card-testimonial-name">Dustin A. Morgan</h4>
-                                <p><small>( Canada Students Visa )</small></p>
-                            </div>
-                        </div>
-                        <!-- /.card testimonial start -->
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                <div class="post-holder">
+                    <div class="post-img zoomimg">
+                        <a href="#"><img src="images/post-img-1.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                        <div class="card-testimonial card-testimonial-light">
-                            <!-- card testimonial start -->
-                            <div class="card-testimonial-img"><img src="images/card-testimonial-img-2.jpg" alt="" class="rounded-circle"></div>
-                                <div class="card-testimonial-content">
-                                    <p class="card-testimonial-text">“Nulla facilisi. Phasellus maximus odio bibendum tortor scelerisque, quis fermentum nulla ornare. Praesent malesuada lorem nec mauris vulputate, viverra tempus felis consequat.”</p>
-                                </div>
-                                <div class="card-testimonial-info">
-                                    <span class="card-testimonial-flag"><img src="images/country/united-states-of-america.svg" class="flag-small"></span>
-                                    <h4 class="card-testimonial-name">Sandra M. Lebrun</h4>
-                                    <p><small>( USA PR visa )</small></p>
-                                </div>
-                            </div>
-                            <!-- /.card testimonial start -->
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                            <div class="card-testimonial card-testimonial-light">
-                                <!-- card testimonial start -->
-                                <div class="card-testimonial-img"><img src="images/card-testimonial-img-3.jpg" alt="" class="rounded-circle"></div>
-                                    <div class="card-testimonial-content">
-                                        <p class="card-testimonial-text">“Sed sollicitudin, ex id lacinia sagittis, lacus lacus ruNulla in ex ut orci pretium congue quis id nunc. trum lus nulla nunc rutrum est. Pellentesque sit amet elementum risus.”</p>
-                                    </div>
-                                    <div class="card-testimonial-info">
-                                        <span class="card-testimonial-flag"><img src="images/country/united-kingdom.svg" class="flag-small"></span>
-                                        <h4 class="card-testimonial-name">Roger N. Towle</h4>
-                                        <p><small>( UK Tier 1 visa )</small></p>
-                                    </div>
-                                </div>
-                                <!-- /.card testimonial start -->
-                            </div>
-                        </div>
+                    <div class="post-header">
+                        <h2 class="post-title"><a href="#" class="title">Bootstrap Website Template for Visa Consultant</a></h2>
+                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
+                    </div>
+                    <div class="post-content">
+                        <p>Proin pulvinar accumsan lectusfeugiat, a sollicitudin massa imperdiet. Phasellus ac ex ligula. Nulla egestas lobortis mattis.</p>
+                        <a href="#" class="btn btn-default">Read More</a>
                     </div>
                 </div>
-                <div class="space-medium bg-light">
-                    <!-- News section -->
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <div class="section-title mb60">
-                                    <!-- section title start-->
-                                    <h2>Resources &amp; News</h2>
-                                </div>
-                                <!-- /.section title start-->
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                                <div class="post-holder">
-                                    <div class="post-img zoomimg">
-                                        <a href="#"><img src="images/post-img-2.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
-                                    </div>
-                                    <div class="post-header">
-                                        <h2 class="post-title"><a href="#" class="title">Visa Immigrations Responsive Web Design Templates</a></h2>
-                                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
-                                    </div>
-                                    <div class="post-content">
-                                        <p>Short description for page header hasellus leo lorem, cursus quis congue in pretium et massa orbi commodo telludolo vitae ornare augue.</p>
-                                        <a href="#" class="btn btn-default">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                                <div class="post-holder">
-                                    <div class="post-img zoomimg">
-                                        <a href="#"><img src="images/post-img-1.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
-                                    </div>
-                                    <div class="post-header">
-                                        <h2 class="post-title"><a href="#" class="title">Bootstrap Website Template for Visa Consultant</a></h2>
-                                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
-                                    </div>
-                                    <div class="post-content">
-                                        <p>Proin pulvinar accumsan lectusfeugiat, a sollicitudin massa imperdiet. Phasellus ac ex ligula. Nulla egestas lobortis mattis.</p>
-                                        <a href="#" class="btn btn-default">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
-                                <div class="post-holder">
-                                    <div class="post-img zoomimg">
-                                        <a href="#"><img src="images/post-img-4.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
-                                    </div>
-                                    <div class="post-header">
-                                        <h2 class="post-title"><a href="#" class="title">Start Your Bootstrap Blog Page Design</a></h2>
-                                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
-                                    </div>
-                                    <div class="post-content">
-                                        <p>Proin pulvinar accumsan lectus, ut sagittis nislodio fetudin massa imperdiet. Phasellus ac ex ligula. Nulla egestas lobortis mattis.</p>
-                                        <a href="#" class="btn btn-default">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                <div class="post-holder">
+                    <div class="post-img zoomimg">
+                        <a href="#"><img src="images/post-img-4.jpg" alt="Visa Immigrations Consultant Responsive Web Design Templates" class="img-fluid"></a>
+                    </div>
+                    <div class="post-header">
+                        <h2 class="post-title"><a href="#" class="title">Start Your Bootstrap Blog Page Design</a></h2>
+                        <p class="meta"><span class="meta-date">1 Feb, 2018</span> <span class="meta-author">By <a href="#">Visapress</a></span> <span class="meta-comments"><a href="#">Comments</a></span></p>
+                    </div>
+                    <div class="post-content">
+                        <p>Proin pulvinar accumsan lectus, ut sagittis nislodio fetudin massa imperdiet. Phasellus ac ex ligula. Nulla egestas lobortis mattis.</p>
+                        <a href="#" class="btn btn-default">Read More</a>
                     </div>
                 </div>
-                <!-- /. News section -->
-                <div class="bg-primary space-small">
-                    <!-- call to action -->
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-8 col-lg-8 col-md-7 col-sm-6 col-12">
-                                <h2 class="mb10 text-white">Free online assessment</h2>
-                                <p>Fusce venenatis lectus non est congue vitae malesuada neque lacinia. </p>
-                            </div>
-                            <div class="col-xl-4 col-lg-4 col-md-5 col-sm-6 col-12 text-center">
-                                <a href="#" class="btn btn-default btn-lg mt10">Get Free Assessment</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-dark">
-                    <!-- Footer -->
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-3 col-6">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">Country</h3>
-                                    <ul class="listnone arrow-footer">
-                                        <li><a href="#">Canada</a></li>
-                                        <li><a href="#">United States</a></li>
-                                        <li><a href="#">United Kingdom</a></li>
-                                        <li><a href="#">Australia</a></li>
-                                        <li><a href="#">New Zealand</a></li>
-                                        <li><a href="#">Singapore</a></li>
-                                        <li><a href="#">South Africa</a></li>
-                                        <li><a href="#">Germany</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-3 col-6">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">Visas</h3>
-                                    <ul class="listnone arrow-footer">
-                                        <li><a href="#"> Students Visas</a></li>
-                                        <li><a href="#">Business Visas</a></li>
-                                        <li><a href="#">Family Visas</a></li>
-                                        <li><a href="#">Travel Visas</a></li>
-                                        <li><a href="#">Work Visas</a></li>
-                                        <li><a href="#">Visitor Visas</a></li>
-                                        <li><a href="#">Migrate Visas</a></li>
-                                        <li><a href="#">PR Visas</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-3 col-6">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">Contact Us</h3>
-                                    <strong>Corporate Office</strong>
-                                    <address>2279 Fire Access Road
-                                        <br> Greensboro, NC 27401</address>
-                                    <p>1800 102 4150
-                                        <br> 1800 102 4151</p>
-                                    <p><a href="#">Schedule a Meeting</a>
-                                        <br>
-                                        <a href="#">Talk to our Expert</a></p>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-2 col-6">
-                                <div class="widget-footer widget-social">
-                                    <h3 class="widget-title">Connect</h3>
-                                    <ul class="listnone">
-                                        <li><a href="#"><i class="fa fa-facebook social-icon"></i> Facebook</a></li>
-                                        <li><a href="#"><i class="fa fa-twitter social-icon"></i> Twitter</a></li>
-                                        <li><a href="#"><i class="fa fa-instagram social-icon"></i> Instagram</a></li>
-                                        <li><a href="#"><i class="fa fa-youtube social-icon"></i> Youtube</a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin social-icon"></i> Linked In</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">GET IMMIGRATION TIPS & NEWS</h3>
-                                    <p>Sign up for our Newsletter and join us on the path to success.</p>
-                                    <form method="post" action="https://jituchauhan.com/visa/visapress/newsletter-email.php">
-                                        <div class="form-row">
-                                            <div class="form-group col-md-12">
-                                                <label for="newsletteremail">Email</label>
-                                                <input type="email" class="form-control" id="newsletteremail" name="newsletteremail" placeholder="Enter Email Address">
-                                            </div>
-                                        </div>
-                                        <button type="submit" class="btn btn-default">Sign UP</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- /.footer -->
-                <div class="tiny-footer-dark">
-                    <!-- tiny footer -->
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <p>Copyright © 2018 <a href="#">VisaPress</a>. All Rights Reserved.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Search Modal -->
-                <div class="searchModal">
-                    <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog modal-lg" role="document">
-                            <div class="modal-content">
-                                <div class="modal-body">
-                                    <form>
-                                        <div class="input-group">
-                                            <input type="text" class="form-control form-control-lg" placeholder="Search Here..." aria-label="Recipient's username" aria-describedby="basic-addon2">
-                                            <div class="input-group-append">
-                                                <button class="btn btn-primary" type="button">Search</button>
-                                            </div>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- /.Search Modal -->
-                <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-                <script src="../../../ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-                <!-- Include all compiled plugins (below), or include individual files as needed -->
-                <script src="js/bootstrap.min.js"></script>
-                <script src="js/bootstrap.bundle.js"></script>
-                <!-- menumaker js -->
-                <script src="js/menumaker.js"></script>
-                <script src="js/navigation.js"></script>
-                <!-- owl.carousel.min.js -->
-                <script src="js/owl.carousel.min.js"></script>
-                <script src="js/custom-carousel.js"></script>
-                <!--Magnific-Video-Popup-->
-                <script src="js/jquery.magnific-popup.min.js"></script>
-                <script src="js/video-zoom.js"></script>
-</body>
+            </div>
+        </div>
+    </div>
+</div>
 
 
-<!-- Mirrored from jituchauhan.com/visa/visapress/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 10:17:22 GMT -->
-</html>
+
+<?php
+require("./partials/footer.php");
+?>
