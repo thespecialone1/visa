@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from jituchauhan.com/visa/visapress/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 10:15:53 GMT -->
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,7 +36,7 @@
 
 <body>
     <!-- /.topbar -->
-<div class="header-transparent">
+    <div class="header-transparent">
         <div class="topbar-transparent">
             <!-- topbar transparent-->
             <div class="container">
@@ -67,22 +68,73 @@
                                 <a href="/">Home</a>
                             </li>
                             <li>
-                                <a href="/migrate">Migrate</a>                             
+                                <a href="/migrate">Canada</a>
+                                <ul>
+
+                                    <li><a href="/migrate/canada/">Migrate</a></li>
+                                    <li><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
+                                    <li><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
+                                    <li><a href="/visa/study/canada/">Study Visa</a></li>
+                                    <li><a href="/visa/visit/canada/">Visit Visa</a></li>
+                                    <li><a href="/visa/business/canada/">Business Visa</a></li>
+                                    <li><a href="/visa/dependent/canada/">Dependent Visa</a></li>
+
+                                </ul>
                             </li>
                             <li>
-                                <a href="/visa/study">Study</a>
+                                <a href="/visa/study">Australia</a>
+                                <ul>
+
+                                    <li><a href="/migrate/australia/">Migrate</a></li>
+                                    <li><a href="/visa/pr/australia/">PR Visa</a></li>
+                                    <li><a href="/visa/study/australia/">Study Visa</a></li>
+                                    <li><a href="/visa/visit/australia/">Visit Visa</a></li>
+                                    <li><a href="/visa/business/australia/">Business Visa</a></li>
+                                    <li><a href="/visa/business/australia/">Dependent Visa</a></li>
+
+                                </ul>
                             </li>
                             <li>
-                                <a href="/visa/business">Business</a>                             
+                                <a href="/visa/business">Germany </a>
+                                <ul>
+
+                                    <li><a href="/migrate/germany/">Migrate</a></li>
+                                    <li><a href="/visa/pr/germany/job-seeker">Job Seeker Visa</a></li>
+                                    <li><a href="/visa/study/germany/">Study Visa</a></li>
+                                    <li><a href="/visa/visit/germany/">Visit Visa</a></li>
+                                    <li><a href="/visa/business/germany/">Business Visa</a></li>
+
+                                </ul>
                             </li>
                             <li>
-                                <a href="/visa/pr">PR VISAS</a>                             
+                                <a href="/visa/pr">USA</a>
+                                <ul>
+
+                                    <li ><a href="/migrate/usa/">Migrate</a></li>
+                                    <li ><a href="/visa/study/usa/">Study Visa</a></li>
+                                    <li ><a href="/visa/visit/usa/">Visit Visa</a></li>
+                                    <li ><a href="/visa/business/usa/">Business Visa</a></li>
+                                    <li ><a href="/visa/business/usa/">Dependent Visa</a></li>
+
+                                </ul>
                             </li>
                             <li>
-                                <a href="/visa/visit">VISIT</a>                             
+                                <a href="/visa/visit">UK</a>
+                                <ul>
+
+                                    <li ><a href="/migrate/uk/">Migrate</a></li>
+                                    <li ><a href="/visa/uk/skilled-worker-visa">Skilled Worker Visa</a></li>
+                                    <li ><a href="/visa/study/uk/">Study Visa</a></li>
+                                    <li ><a href="/visa/visit/uk/">Visit Visa</a></li>
+                                    <li ><a href="/visa/business/uk/">Business Visa</a></li>
+                                    <li ><a href="/visa/dependent/uk/">Dependent Visa</a></li>
+
+                                </ul>
                             </li>
                             <li><a href="#">About Us </a>
                                 <ul>
+                                    
+                                    <li><a href="./../founder-page.html">Founder page</a></li>
                                     <li><a href="./../founder-page.html">Founder page</a></li>
                                     <li><a href="./../agent-list-page.html">Agent List</a></li>
                                     <li><a href="./../agent-single-page.html">Agent Single</a></li>
