@@ -3,6 +3,8 @@ require("./partials/header.php");
 ?>
 
 <!-- slider -->
+
+<!-- slide  -->
 <br><br><br><br>
 <div class="space-medium" stle="padding-top: 0 !important; margin-top:20rem !important;">
     <div class="container">
