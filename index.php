@@ -1,11 +1,56 @@
 <?php
 require("./partials/header.php");
 ?>
-
 <!-- slider -->
-
+ <!-- /.header classic -->
+ <div class="slider mt-6">
+        <!-- slider -->
+        <div class="slider-carsoule owl-carousel owl-theme">
+            <div class="item">
+                <img src="./../images/slider-large-1.jpg" alt="Immigration Consulting Responsive Website Template">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
+                            <div class="slider-captions">
+                                <h1 class="slider-title dotted-line">Migrate Visa</h1>
+                                <p class="slider-text">Choose a country and get migrated for better standard of living. </p>
+                                <a href="/migrate" class="btn btn-default btn-lg">Migrate Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="./../images/slider-large-2.jpg" alt="Immigration visa consultant HTML5 Template">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
+                            <div class="slider-captions">
+                                <h1 class="slider-title dotted-line">Study Visa</h1>
+                                <p class="slider-text">Move to your desired country for getting better educational opportunities. Earn a Higher Salary.</p>
+                                <a href="visa/study" class="btn btn-default btn-lg">Get Study Visa Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="./../images/slider-large-3.jpg" alt="Immigration Consulting Bootstrap Responsive Website Template">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
+                            <div class="slider-captions">
+                                <h1 class="slider-title dotted-line">Travel Abroad</h1>
+                                <p class="slider-text">Explore New Places and Experience Different Cultures. Get a Global Mind-Set </p>
+                                <a href="/visit" class="btn btn-default btn-lg">Get Visit Visa</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 <!-- slide  -->
-<br><br><br><br>
 <div class="space-medium" stle="padding-top: 0 !important; margin-top:20rem !important;">
     <div class="container">
         <div class="row">

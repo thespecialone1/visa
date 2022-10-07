@@ -44,9 +44,7 @@
             <!-- topbar transparent-->
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 d-none d-sm-none d-lg-block d-xl-block">
-                        <p class="welcome-text">Welcome to visapress a immigration company website template</p>
-                    </div>
+                    
                     <div class="col-xl-12 col-lg-6 col-md-12 col-sm-12 col-12">
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block d-md-block"><a href="#">Talk to Our Expert</a></span>
@@ -62,14 +60,11 @@
         <!-- header classic -->
         <div class="container">
             <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="./../index-3.html" class="logo"><img src="/images/logo-3.png" alt="Visapress an Immigration and Visa Consulting Website Template"></a></div>
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="/" class="logo"><img src="/images/logo-3.png" alt="Visapress an Immigration and Visa Consulting Website Template"></a></div>
                 <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div id="navigation-transparent" class="navigation-transparent">
                         <!-- navigation -->
                         <ul>
-                            <li>
-                                <a href="/">Home</a>
-                            </li>
                             <li>
                                 <a href="/migrate">Canada</a>
                                 <ul>
@@ -201,51 +196,4 @@
             </div>
         </div>
     </div>
-    <!-- /.header classic -->
-    <div class="slider">
-        <!-- slider -->
-        <div class="slider-carsoule owl-carousel owl-theme">
-            <div class="item">
-                <img src="./../images/slider-large-1.jpg" alt="Immigration Consulting Responsive Website Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">IELTS / PTE / TOFEL / English Speaking</h1>
-                                <p class="slider-text"> High-stakes English test for study, migration or work.</p>
-                                <a href="#" class="btn btn-default btn-lg">Start Coaching Today</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <img src="./../images/slider-large-2.jpg" alt="Immigration visa consultant HTML5 Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">Immigration &amp; Visa Consultants</h1>
-                                <p class="slider-text">Proin venenatis orci felis, tincidunt sagittis mi lacinia vitae. Vestibulum erat nisi, tincidunt vel lobortis eu, imperdiet eu sapien.</p>
-                                <a href="#" class="btn btn-default btn-lg">BOOK A CONSULTATION</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <img src="./../images/slider-large-3.jpg" alt="Immigration Consulting Bootstrap Responsive Website Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">World Most Trusted Immigration Company</h1>
-                                <p class="slider-text">Vestibulum erat nisi, tincidunt vel lobortis eu, imperdiet eu sapien. Proin venenatis orci felis, tincidunt sagittis mi lacinia vitae. </p>
-                                <a href="#" class="btn btn-default btn-lg">BOOK A CONSULTATION</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   

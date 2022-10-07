@@ -1,26 +1,34 @@
 <?php
 require("./../../partials/header.php")
 ?>
-<br><br><br><br><br><br><br>
 <style>
     .card-img-top {
         width: 100%;
         height: 175px;
         object-fit: cover;
     }
+
+    .page-header {
+        background: url(images/canada.jpg) no-repeat center !important;
+    }
 </style>
-<section class="container mb-5">
-    <h1 class="text-center text-primary">Migration to Canada</h1>
-    <div class="row">
-<img src="./images/canada.jpg" style="max-width:500px; margin: 0 auto; border-radius: 1rem;" class="img-fluid" alt="Responsive image">
 
+<div class="page-header ">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                <h2 class="page-title text-primary  text-shadow-grey">Migrate to Canada</h2>
+                <p class="page-description" class="text-seconary text-shadow-grey" style="text-shadow: 2px 2px 6px grey;">Contact us page design in bootstrap template using HTML5 &amp; CSS3. Best HTML5 &amp; CSS3 Contact Form Templates.
+                </p>
+            </div>
+        </div>
     </div>
-</section>
+</div>
 
-<section class="container">
+<section class="container mt-5">
     <div class="row ">
         <div class="col-12 col-md-4">
-            <h1 class="text-primary">Why Migrate to Canada?</h1>
+            <h2 class="text-primary">Why Migrate to Canada?</h2>
 
         </div>
         <div class="col-12 col-md-8">
@@ -37,7 +45,7 @@ require("./../../partials/header.php")
 
     <div class="row mt-5 justify-content-md-center">
         <div class="col-12 col-md-4">
-            <h1 class="text-primary">ABOUT CANADA</h1>
+            <h2 class="text-primary">About Canada</h2>
         </div>
         <div class="col-12 col-md-8">
             <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
@@ -88,7 +96,7 @@ require("./../../partials/header.php")
         </div>
 
         <div class="col-12 col-md-4">
-            <h1 class="text-primary">Salery Scenario in Canada</h1>
+            <h2 class="text-primary">Salery Scenario in Canada</h2>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>
@@ -140,7 +148,7 @@ require("./../../partials/header.php")
 
 
         <div class="col-12 col-md-4">
-            <h1 class="text-primary">A future in Canada</h1>
+            <h2 class="text-primary">A future in Canada</h2>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>
@@ -159,7 +167,7 @@ require("./../../partials/header.php")
 
     </div>
 
-    <h1 class="text-primary" class="text-center mt-5">PROMINENT CITIES IN CANADA</h1>
+    <h2 class="text-primary" class="text-center mt-5">PROMINENT CITIES IN CANADA</h2>
     <div class="row justify-content-md-center">
         <div class="col-12 col-md-6 col-lg-4 col-xl-3">
             <div class="card">
@@ -217,7 +225,7 @@ require("./../../partials/header.php")
 
     <div class="row mt-5">
         <div class="col-12 col-md-4">
-            <h1 class="text-primary">A HISTORY OF BUILDING A FUTURE IN CANADA</h1>
+            <h2 class="text-primary">A HISTORY OF BUILDING A FUTURE IN CANADA</h2>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>Canada is popularly known as the friendliest immigration nation in the world. “The Great White North” as it’s called, has amazing immigration plans for the period ending in 2024. Not just that! The IRCC has announced an investment of $100 million for the settlement of newcomers.</p>

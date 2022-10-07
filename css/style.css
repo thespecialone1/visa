@@ -583,7 +583,7 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 /*--- 5.3 Header Transparent ---*/
 .logo { display: block; }
 .navigation-transparent { padding-top: 20px; padding-bottom: 20px; display: block; }
-.header-transparent { background: rgba(41, 85, 158, 1); position: fixed; z-index: 9; width: 100%; padding-bottom: 10px; }
+.header-transparent {top : 0; background: rgba(41, 85, 158, 1); position: fixed; z-index: 9; width: 100%; padding-bottom: 10px; }
 .topbar-transparent { font-size: 13px; border-bottom: 1px dotted silver; font-weight: 300; background: transparent; color: #fff; margin-bottom: 10px; }
 .topbar-transparent .header-link { border-left: 1px dotted rgba(120, 125, 130, .8); height: 40px; float: left; padding-left: 14px; padding-right: 14px; padding-top: 5px; }
 .topbar-transparent .header-link a { color: #fff; }
@@ -1514,7 +1514,19 @@ Landing Page Css
 /*==========  Non-Mobile First Method  ==========*/
 
 /* Large Devices, Wide Screens */
+.text-shadow-grey{
+    text-shadow: 2px 2px 8px grey;
+}
+@media only screen and (min-width:1200px){
+    .slider{
+        margin-top: 7.8rem;
+    }
+    .page-header {
+        margin-top: 50px;
+    }
+}
 @media only screen and (max-width:1200px) {
+
   .slider-title { font-size: 32px; }
   .slider-captions { bottom: 20px; }
   #navigation>ul>li>a { padding: 17px 5px; font-size: 14px; text-decoration: none; color: #1c1e20; font-weight: 400; }
