@@ -208,25 +208,27 @@ On an average, the annual tuition fees range between CAD 7,000 and CAD 35,000 if
 <b>Step 2: Select Universities</b>
 <br>
 Shortlist the universities (about 10 universities should do) and study programs that meet your requirements and you want to apply for.
-
-Step 3: Prepare for entrance exams
-
+<br>
+<br>
+<b>Step 3: Prepare for entrance exams</b>
+<br>
 Prepare for the standardized tests like TOEFL/GRE/GMAT/IELTS etc. based on the requirements of the universities and colleges. Register for these tests in advance. While applying for the tests you should also plan for the time required in case you need to retake the test. You should complete these tests before September of the academic year you wish to apply.
-
-Step 4: Finance your studies
-
+<br>
+<br>
+<b>Step 4: Finance your studies</b>
+<br>
 Ensure that you have the money ready for your entire period of study in Canada along with accommodation, local travel, food, and other miscellaneous expenses. Decide on how you will finance your studies – personal savings, education loans, student scholarships, or assistantship.
-
-Step 5: Apply to the university
-
+<br><br>
+<b>Step 5: Apply to the university</b>
+<br>
 Contact each university directly for the admission requirements. Every university has its own admission requirements. Complete the applications well before deadlines and send them.
-
-Step 6: Confirm admission
-
+<br><br>
+<b>Step 6: Confirm admission</b>
+<br>
 Once you get your acceptance letters from the universities that you have applied to, choose the university you would like to study at. The next step is to pay a non-refundable deposit to the university to confirm your admission.
-
-Step 7: Get a Study permit
-
+<br><br>
+<b>Step 7: Get a Study permit</b>
+<br>
 Once you get admission confirmation done, you can apply for your study permit.
                                     </span>
                                 </div>
