@@ -13,10 +13,12 @@ require("./../../../partials/header.php");
          <div class="location-section shadow">
             <div class="row">
                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 mb60">
-                  <div class="section-title text-center ">
+                  <div class=" section-title text-center ">
                      <!-- section title start-->
-                      
-                     <h2 class="mb-20 text-primary font-weight-bold">Why Study in Australia?</h2>
+                     <div class="mt-40 col-xl-12 xol-lg-12 col-md-12 col-sm-12 col-12">
+                        <h2 class="bg-secondary coaching-card py-2 d-flex justify-content-center location-section shadow text-light font-weight-bold">WHY STUDY IN AUSTRALIA?</h2>
+                    </div>
+                     
                      <div class="d-flex flex-row justify-content-between">
                      <p>Top 10 QS ranking Universities<span class="font-weight-bold text-secondary"> (Top 10 )</span></p>
                      <p>Inexpensive tuition fees<span class="text-secondary font-weight-bold"> Earn and study</span></p>
@@ -38,7 +40,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img  zoomimg">
-                        <img src="./../../../images/University of Western Australia.jpeg" alt=""  class="img-fluid ">
+                        <img src="./../../../images/Australian National University.jpg" alt=""  class="img-fluid ">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Australian National University</a></h3>
                            <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -60,7 +62,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-1.jpg" alt="" class="img-fluid">
+                        <img src="./../../../images/University of Sydny.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Sydney</a></h3>
                            <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -71,7 +73,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-1.jpg" alt="" class="img-fluid">
+                        <img src="./../../../images/University of New South Wales.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of New South Wales</a></h3>
                            <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -82,7 +84,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-1.jpg" alt="" class="img-fluid">
+                        <img src="./../../../images/University of Queensland.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Queensland</a></h3>
                            <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -93,7 +95,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-2.jpg" alt="" class="img-fluid">
+                        <img src="./../../../images/Monash.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">Monash University</a></h3>
                            <img src="./../../../images/country/australia.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -104,7 +106,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-3.jpg" alt="" class="img-fluid">
+                        <img src="./../../../images/University of Western Australia.jpg" alt="" class="img-fluid object-fit">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Western Australia</a></h3>
                            <img src="./../../../images/country/united-kingdom.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -115,7 +117,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-4.jpg"  alt="" class="img-fluid">
+                        <img src="./../../../images/University of Adelaide.jpg"  alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Adelaide</a></h3>
                            <img src="./../../../images/country/new-zealand.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -126,7 +128,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-5.jpg" alt="" class="img-fluid">
+                        <img src="./../../../images/University of Technology Sydney.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Technology Sydney</a></h3>
                            <img src="./../../../images/country/south-africa.svg" alt="" class="flag-small border rounded-circle border-thick mr-0 ">
@@ -137,7 +139,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-6.jpg" alt="" class="img-fluid">
+                        <img src="./../../../images/University of Wollongong.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Wollongong</a></h3>
                            <img src="./../../../images/country/united-states-of-america.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -149,59 +151,74 @@ require("./../../../partials/header.php");
          </div>
       </div>
 
-      <div class="space-medium" stle="padding-top: 0 !important; margin-top:20rem !important;">
+      <!-- <div class="space-medium  " stle="padding-top: 0 !important; margin-top:20rem !important;">
     <div class="container">
         <div class="row">
-            <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8   col-md-12 col-sm-12 col-12">
-                 <div class="section-title text-center">
+            <div class=" offset-xl-2 col-xl-8 offset-lg-2 col-lg-8   col-md-12 col-sm-12 col-12">
+                 <div class="section-title text-center"> -->
                     <!-- section title start-->
-                    <h2 class="text-primary font-weight-bold">Tuition Fees for Studying in Canada</h2>
-                 </div>
+                    <!-- <h2 class="coaching-card py-3 d-flex justify-content-center location-section shadow text-primary font-weight-bold">Tuition Fees for Studying in Australia</h2>
+                 </div> -->
                 <!-- /.section title start-->
-                </div>
+                <!-- </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="d-flex content">
         <div class="d-flex container">
             <div class="row d-flex ">
-                <div class=" col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                  
                     <div class="coaching-card  location-section shadow">
                         <!-- coaching card -->
-                        
+                        <div class="mt-40 col-xl-8">
+                           <h2 class="bg-secondary coaching-card py-3 d-flex justify-content-center location-section shadow text-light font-weight-bold">Tuition Fees    for Studying in Australia</h2>
+                        </div>
                         <div class="coaching-card-body">
-                            <span class="coaching-card-title font-italic">Get access for an affordable quality education!</span><br><br>
-                            <span class="font-weight-normal">The tuition fees vary s by institution and province. But compared to the cost of studies in other countries, Canada is very affordable. Compared to Art Courses, Medical and Technical Courses are more expensive.
-<br>
-On an average, the annual tuition fees range between CAD 7,000 and CAD 35,000 if you are an international student.</span>
+                           
+                            <span class="coaching-card-title font-italic">Get a fair understanding of how much it would cost to study in Australia.</span><br><br>
+                            <span class="font-weight-normal">Generally, courses like Arts, Education, and Humanities are economical, while subjects in STEM are expensive. Studies at the Post Graduate level have higher tuition fees, and the costs vary based on the study program you choose.
+</span>
 <br>
                             <table class="mt-4 table table-bordered">
   <thead>
     <tr>
       <th scope="col" class="font-weight-bold">#</th>
       <th scope="col" class="font-weight-bold text-default">Study Program</th>
-      <th scope="col" class="font-weight-bold text-default">Average Annual Fees in CAD</th>
+      <th scope="col" class="font-weight-bold text-default">Average Annual Fees in AUD$</th>
       
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Undergraduate program</td>
-      <td>13,000 to 20,000</td>
+      <td>Undergraduate Bachelor Degree</td>
+      <td>20,000 - 45,000</td>
      
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Post-Graduate/Masters program</td>
-      <td>17,000 to 25,000</td>
+      <td>Postgraduate Master's Degree</td>
+      <td>22,000 - 50,000</td>
       
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Doctoral Degree</td>
-      <td>7,000 to 15,000</td>
+      <td>18,000 to 42,000</td>
+    </tr>
+    </tbody>
+    <tr>
+      <th scope="row">3</th>
+      <td>Vocational Education and Training</td>
+      <td>4,000 to 22,000</td>
+    </tr>
+    </tbody>
+    <tr>
+      <th scope="row">3</th>
+      <td>English language studies</td>
+      <td>300 per week</td>
     </tr>
     </tbody>
 </table>
@@ -215,6 +232,76 @@ On an average, the annual tuition fees range between CAD 7,000 and CAD 35,000 if
             </div>
         </div>
     </div>
+
+
+
+    <div class="content ">
+        <div class="container">
+            <div class="space-medium coaching-card  location-section shadow py-2 pdt0">
+                <div class="row">
+                    <div class=" col-xl-12 xol-lg-12 col-md-12 col-sm-12 col-12">
+                        <h2 class="col-xl-8 bg-secondary coaching-card py-2 d-flex justify-content-center location-section shadow text-light font-weight-bold">HOW TO APPLY FOR AN AUSTRALIA STUDENT VISA?</h2>
+                    </div>
+                    <div class=" col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="agent-block">
+                            <!-- agent block -->
+                            
+                            <div class="agent-content">
+                                <h3 class="agent-name font-weight-normal">Check your eligibility</h3>
+                                <p>Before submitting your Australia Student Visa application, you must check your eligibility.</p>
+                            </div>
+                        </div>
+                        <!-- /.agent block -->
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="agent-block">
+                            <!-- agent block -->
+                            
+                            <div class="agent-content">
+                                <h3 class="agent-name">Gather all the requirements</h3>
+                                
+                                <p>You have to gather all the visa requirements as per the checklist..</p>
+                            </div>
+                        </div>
+                        <!-- /.agent block -->
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="agent-block">
+                            <!-- agent block -->
+                            
+                                <h3 class="agent-name">Duly fill out the form</h3>
+                                
+                                <p>You need to carefully fill out the Australia Student Visa form, which is available online.</p>
+                            </div>
+                        </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="agent-block">
+                            <!-- agent block -->
+                            
+                                <h3 class="agent-name">Receive notification</h3>
+                                
+                                <p>You will receive a notification from authorities after submitting your Australia Student Visa form.</p>
+                            </div>
+                        </div>
+                        
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="agent-block">
+                            <!-- agent block -->
+                            
+                                <h3 class="agent-name">Know the status of your vis</h3>
+                                
+                                <p>You will be notified about the status of your Australia Student Visa application.</p>
+                            </div>
+                        </div>
+                        
+                        <!-- /.agent block -->
+                    </div>
+                        <!-- /.agent block -->
+                    </div>
+                    
+                    
+                </div>
+            </div>
 
     <div class="d-flex justify-content-center col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb30">
                     
