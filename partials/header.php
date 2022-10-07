@@ -62,7 +62,7 @@
         <!-- header classic -->
         <div class="container">
             <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="./../index-3.html" class="logo"><img src="images/logo-3.png" alt="Visapress an Immigration and Visa Consulting Website Template"></a></div>
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="./../index-3.html" class="logo"><img src="/images/logo-3.png" alt="Visapress an Immigration and Visa Consulting Website Template"></a></div>
                 <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div id="navigation-transparent" class="navigation-transparent">
                         <!-- navigation -->
