@@ -9,11 +9,18 @@ require("./../../partials/header.php")
         object-fit: cover;
     }
 </style>
+<section class="container mb-5">
+    <h1 class="text-center text-primary">Migration to Canada</h1>
+    <div class="row">
+<img src="./images/canada.jpg" style="max-width:500px; margin: 0 auto; border-radius: 1rem;" class="img-fluid" alt="Responsive image">
+
+    </div>
+</section>
 
 <section class="container">
     <div class="row ">
         <div class="col-12 col-md-4">
-            <h1 class="text-danger">Why Migrate to Canada?</h1 class="text-danger">
+            <h1 class="text-primary">Why Migrate to Canada?</h1>
 
         </div>
         <div class="col-12 col-md-8">
@@ -30,7 +37,7 @@ require("./../../partials/header.php")
 
     <div class="row mt-5 justify-content-md-center">
         <div class="col-12 col-md-4">
-            <h1 class="text-danger">ABOUT CANADA</h1 class="text-danger">
+            <h1 class="text-primary">ABOUT CANADA</h1>
         </div>
         <div class="col-12 col-md-8">
             <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
@@ -81,7 +88,7 @@ require("./../../partials/header.php")
         </div>
 
         <div class="col-12 col-md-4">
-            <h1 class="text-danger">Salery Scenario in Canada</h1 class="text-danger">
+            <h1 class="text-primary">Salery Scenario in Canada</h1>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>
@@ -133,7 +140,7 @@ require("./../../partials/header.php")
 
 
         <div class="col-12 col-md-4">
-            <h1 class="text-danger">A future in Canada</h1 class="text-danger">
+            <h1 class="text-primary">A future in Canada</h1>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>
@@ -152,13 +159,13 @@ require("./../../partials/header.php")
 
     </div>
 
-    <h1 class="text-danger" class="text-center mt-5">PROMINENT CITIES IN CANADA</h1 class="text-danger">
+    <h1 class="text-primary" class="text-center mt-5">PROMINENT CITIES IN CANADA</h1>
     <div class="row justify-content-md-center">
         <div class="col-12 col-md-6 col-lg-4 col-xl-3">
             <div class="card">
                 <img class="card-img-top" src="./images/torronto.jpeg" alt="Card image cap">
                 <div class="card-body">
-                    <h2 class="text-primary" class="card-text">Toronto</h2 class="text-primary">
+                    <h2 class="text-primary" class="card-text">Toronto</h2>
                 </div>
             </div>
         </div>
@@ -167,7 +174,7 @@ require("./../../partials/header.php")
             <div class="card">
                 <img class="card-img-top" src="./images/Edmonton-Canada-Alberta.webp" alt="Card image cap">
                 <div class="card-body">
-                    <h2 class="text-primary" class="card-text">Edmonton</h2 class="text-primary">
+                    <h2 class="text-primary" class="card-text">Edmonton</h2>
                 </div>
             </div>
         </div>
@@ -176,7 +183,7 @@ require("./../../partials/header.php")
             <div class="card">
                 <img class="card-img-top" src="./images/Montreal.jpeg" alt="Card image cap">
                 <div class="card-body">
-                    <h2 class="text-primary" class="card-text">Montreal</h2 class="text-primary">
+                    <h2 class="text-primary" class="card-text">Montreal</h2>
                 </div>
             </div>
         </div>
@@ -185,7 +192,7 @@ require("./../../partials/header.php")
             <div class="card">
                 <img class="card-img-top" src="./images/Oakville.jpeg" alt="Card image cap">
                 <div class="card-body">
-                    <h2 class="text-primary" class="card-text">Oakville</h2 class="text-primary">
+                    <h2 class="text-primary" class="card-text">Oakville</h2>
                 </div>
             </div>
         </div>
@@ -194,7 +201,7 @@ require("./../../partials/header.php")
 
     <div class="row mt-5">
         <div class="col-12 col-md-4">
-            <h2 class="text-primary">WHY IMMIGRANTS CHOOSE TO MOVE TO CANADA?</h2 class="text-primary">
+            <h2 class="text-primary">WHY IMMIGRANTS CHOOSE TO MOVE TO CANADA?</h2>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>Every year thousands of expats migrate to Canada from UAE. Even though UAE boasts a high quality of life, many of them choose Canada immigration because of these interesting reasons:</p>
@@ -210,7 +217,7 @@ require("./../../partials/header.php")
 
     <div class="row mt-5">
         <div class="col-12 col-md-4">
-            <h1 class="text-danger">A HISTORY OF BUILDING A FUTURE IN CANADA</h1 class="text-danger">
+            <h1 class="text-primary">A HISTORY OF BUILDING A FUTURE IN CANADA</h1>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>Canada is popularly known as the friendliest immigration nation in the world. “The Great White North” as it’s called, has amazing immigration plans for the period ending in 2024. Not just that! The IRCC has announced an investment of $100 million for the settlement of newcomers.</p>
@@ -224,10 +231,10 @@ require("./../../partials/header.php")
 <section class="container">
     <div class="row mt-5">
         <div class="col-12 col-md-4">
-            <h2 class="text-primary">CANADA IMMIGRATION ELIGIBILITY</h2 class="text-primary">
+            <h2 class="text-primary">CANADA IMMIGRATION ELIGIBILITY</h2>
         </div>
         <div class="col-12 col-md-8 my-2">
-            <h2 class="text-primary">The eligibility criteria for Canada Immigration differ for each program like:</h2 class="text-primary">
+            <h2 class="text-primary">The eligibility criteria for Canada Immigration differ for each program like:</h2>
             <ul>
                 <li>Express Entry Program</li>
                 <li>Quebec Skilled Worker Program (QSWP)</li>
@@ -271,35 +278,35 @@ require("./../../partials/header.php")
 
     <div class="row mt-5">
         <div class="col-12 col-md-4">
-            <h3>HOW TO APPLY FOR CANADA IMMIGRATION ONLINE APPLICATION?</h3>
+            <h2 class="text-primary">HOW TO APPLY FOR CANADA IMMIGRATION ONLINE APPLICATION?</h2>
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>Canada Immigration from the UAE is easy, as it has a very clear process for each pathway of immigration.</p>
             <img src="./images/Canada-Immigration-from-the-UAE.jpg" class="img-fluid" alt="Responsive image">
             <p>You may follow the steps below to make the process simple.</p>
-            <h2 class="text-primary">Step 1: Eligibility Check</h2 class="text-primary">
+            <h2 class="text-primary">Step 1: Eligibility Check</h2>
             <p>It’s the prime step for Canada immigration!</p>
             <p>Checking your eligibility for Canada immigration is the foremost step. Use the Y-Axis Canada Points calculator for free to check your score and eligibility.</p>
             <p>Note: You need to score a minimum of 67 points to get eligible for Canada Immigration, and to boost your chances for Canada PR Visa you need to score more.</p>
-            <h2 class="text-primary">Step 2: English proficiency Test</h2 class="text-primary">
+            <h2 class="text-primary">Step 2: English proficiency Test</h2>
             <p>Test your language proficiency in CBL or IELTS or TOEFL.
                 <br> Prove your language proficiency in CBL or IELTS, or TOEFL by scoring high points. A high score in language proficiency tests will certainly boost your chances for Canada immigration.
                 <br> Note: Get a positive impact on your score through Y-Axis Coaching for language proficiency, which provides world-class coaching that helps you to score more in the language proficiency test.
             </p>
 
-            <h2 class="text-primary">Step 3: Skills Assessment</h2 class="text-primary">
+            <h2 class="text-primary">Step 3: Skills Assessment</h2>
             <P>Assess your skillset for Canada Immigration! <br><br>
                 Assessing your skillset can be done through the relevant skill assessment body of the country.</P>
 
-            <h2 class="text-primary">Step 4: Expression of Interest (EOI)</h2 class="text-primary">
+            <h2 class="text-primary">Step 4: Expression of Interest (EOI)</h2>
             <P>Be cautious while registering your EOI for Canada Immigration! <br><br>
                 You have to be very attentive while registering your Expression of Interest (EOI) for the Canada Express Entry portal, as it plays a crucial role in your Canada work visa or Canada PR visa.</P>
 
-            <h2 class="text-primary">Step 5: Invitation to Apply (ITA)</h2 class="text-primary">
+            <h2 class="text-primary">Step 5: Invitation to Apply (ITA)</h2>
             <P>Obtaining ITA, essential for Canada immigration! <br><br>
                 If you receive an Invitation to Apply (ITA) from any of the Canadian immigration pathways, you will be given 60 calendar days to apply for any of the specific Canada immigration pathways such as Canada Express Entry, Provincial Nominee Pathways and Quebec Immigration programs.</P>
 
-            <h2 class="text-primary">Step 6: Apply for Canada PR Visa</h2 class="text-primary">
+            <h2 class="text-primary">Step 6: Apply for Canada PR Visa</h2>
             <P>Embrace your chances for permanent residency with a Canada PR Visa! <br><br>
                 You can apply for permanent residency online through Canada PR visa by following the accurate procedures and submitting the requirements.</P>
 
