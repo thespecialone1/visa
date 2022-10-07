@@ -260,7 +260,7 @@ Once you get admission confirmation done, you can apply for your study permit.
                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                 <div class="card-accordion-body">
                                     <p>Fusce consequat blandit massa ac viverra. Vivamus malesuada massa dui, feugiat porta sem cursus sed. Quisque diam odio, pretium sit amet tristique a, commodo vitae nunc. Maecenas eu velit libero. Nulla facilisi. Etiam eros sapien, bibendum ac molestie sed, aliquam eu nisi. </p>
-                                    <p>Aenean lobortis vulputate diam, quis mattis tellus tincidunt a. Duis hendrerit sodales laoreet. Mauris rhoncus augue a fringilla lacinia. Vestibulum orci nibh, lacinia non viverra sit amet, tristique sed est.</p>
+                                    <p>Aenean loborti vulputate diam, quis mattis tellus tincidunt a. Duis hendrerit sodales laoreet. Mauris rhoncus augue a fringilla lacinia. Vestibulum orci nibh, lacinia non viverra sit amet, tristique sed est.</p>
                                 </div>
                             </div>
                         </div>
