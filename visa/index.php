@@ -1,5 +1,5 @@
 <?php
-require("./partials/header.php");
+require("./../partials/header.php");
 ?>
 
 <br><br>
@@ -475,5 +475,5 @@ You must prepare a checklist of points before taking the big call, as it plays a
 
 
 <?php
-require("./partials/footer.php");
+require("./../partials/footer.php");
 ?>
