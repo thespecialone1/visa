@@ -43,7 +43,7 @@ require("./../../../partials/header.php");
                         <img src="./../../../images/Australian National University.jpg" alt=""  class="img-fluid ">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Australian National University</a></h3>
-                           <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
+                           <img src="https://img.icons8.com/color/30/000000/27.png"/>
                         </div>
                      </div>
                   </div>
@@ -54,7 +54,7 @@ require("./../../../partials/header.php");
                         <img src="./../../../images/location-img-1.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Melbourne</a></h3>
-                           <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
+                           <img src="https://img.icons8.com/color/30/000000/37.png"/>
                         </div>
                      </div>
                   </div>
@@ -65,7 +65,7 @@ require("./../../../partials/header.php");
                         <img src="./../../../images/University of Sydny.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Sydney</a></h3>
-                           <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
+                           <img src="https://img.icons8.com/color/30/000000/38.png"/>
                         </div>
                      </div>
                   </div>
@@ -75,8 +75,8 @@ require("./../../../partials/header.php");
                      <div class="location-img zoomimg">
                         <img src="./../../../images/University of New South Wales.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
-                           <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of New South Wales</a></h3>
-                           <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
+                           <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of South Wales</a></h3>
+                           <img src="https://img.icons8.com/color/30/000000/43.png"/>
                         </div>
                      </div>
                   </div>
@@ -87,7 +87,7 @@ require("./../../../partials/header.php");
                         <img src="./../../../images/University of Queensland.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Queensland</a></h3>
-                           <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
+                           <img src="https://img.icons8.com/color/30/000000/47.png"/>
                         </div>
                      </div>
                   </div>
@@ -98,7 +98,7 @@ require("./../../../partials/header.php");
                         <img src="./../../../images/Monash.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">Monash University</a></h3>
-                           <img src="./../../../images/country/australia.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
+                           <img src="https://img.icons8.com/color/30/000000/58.png"/>
                         </div>
                      </div>
                   </div>
@@ -108,8 +108,8 @@ require("./../../../partials/header.php");
                      <div class="location-img zoomimg">
                         <img src="./../../../images/University of Western Australia.jpg" alt="" class="img-fluid object-fit">
                         <div class="location-img-overlay d-flex justify-content-between ">
-                           <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Western Australia</a></h3>
-                           <img src="./../../../images/country/united-kingdom.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
+                           <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of west Australia</a></h3>
+                           <img src="https://img.icons8.com/color/30/000000/93.png"/>
                         </div>
                      </div>
                   </div>
