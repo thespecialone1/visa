@@ -8,6 +8,15 @@
     .textleft-onlgscreen-textcenter-onsmscreen{
         display: inline-block;
     }
+    .heading-border-style h1 {
+        position: relative;
+        font-weight: 100;
+      }
+}
+@media only screen and (max-width:500px){
+    .heading-border-style h1{
+        text-align: left !important;
+    }
 }
 /* CSS Document */
 
@@ -399,7 +408,7 @@ Copy text}
 .arrow li:before { font-family: "FontAwesome"; display: inline-block; position: absolute; left: 0; font-size: 15px; color: #858386; content: '\f105'; }
 .check-circle { position: relative; margin-bottom: 20px; }
 .check-circle li { padding-left: 20px; line-height: 2; }
-.check-circle li:before { font-family: "FontAwesome"; display: inline-block; position: absolute; left: 0; font-size: 17px; color: #23bf5d; content: '\f058'; font-weight: 300; }
+.check-circle li:before { font-family: "FontAwesome"; display: inline-block; position: absolute; left: 0; font-size: 17px; color: #0074A1; content: '\f058'; font-weight: 300; }
 .btn-round-play { background: #fff; width: 80px; height: 80px; border-radius: 100%; position: absolute; top: 45%; left: 40%; text-align: center; line-height: 1; padding-top: 25px; font-size: 32px; }
 
 /*--- 4.7 Call to actions ---*/
