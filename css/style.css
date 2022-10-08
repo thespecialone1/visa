@@ -49,12 +49,13 @@
 
   .wrap-heading-squared{
     text-align: center;
+    margin:0 1rem;
   }
   
   .heading-squared h1 {
     position:relative; font-size:2rem; font-weight:700;  letter-spacing:0px; text-transform:uppercase; 
     display: inline-block;
-    text-align:center; margin:auto; white-space:nowrap; border:2px solid #006288;padding:5px 11px 3px 11px;
+    text-align:center; margin:auto; border:2px solid #006288;padding:5px 11px 3px 11px;
   }
   .heading-squared h1:before, .heading-squared h1:after {
       background-color: #006288;
@@ -1587,7 +1588,7 @@ Landing Page Css
     text-shadow: 2px 2px 3px black;
 }
 .text-shadow-grey{
-    text-shadow: 2px 2px 3px grey;
+    text-shadow: 2px 2px 3px lightgrey;
 }
 @media only screen and (min-width:1200px){
     .slider{

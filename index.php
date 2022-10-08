@@ -2,54 +2,54 @@
 require("./partials/header.php");
 ?>
 <!-- slider -->
- <!-- /.header classic -->
- <div class="slider mt-6">
-        <!-- slider -->
-        <div class="slider-carsoule owl-carousel owl-theme">
-            <div class="item">
-                <img src="./../images/slider-large-1.jpg" alt="Immigration Consulting Responsive Website Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">Migrate Visa</h1>
-                                <p class="slider-text">Choose a country and get migrated for better standard of living. </p>
-                                <a href="/migrate" class="btn btn-default btn-lg">Migrate Now</a>
-                            </div>
+<!-- /.header classic -->
+<div class="slider mt-6">
+    <!-- slider -->
+    <div class="slider-carsoule owl-carousel owl-theme">
+        <div class="item">
+            <img src="./../images/slider-large-1.jpg" alt="Immigration Consulting Responsive Website Template">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
+                        <div class="slider-captions">
+                            <h1 class="slider-title dotted-line">Migrate Visa</h1>
+                            <p class="slider-text">Choose a country and get migrated for better standard of living. </p>
+                            <a href="/migrate" class="btn btn-default btn-lg">Migrate Now</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="item">
-                <img src="./../images/slider-large-2.jpg" alt="Immigration visa consultant HTML5 Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">Study Visa</h1>
-                                <p class="slider-text">Move to your desired country for getting better educational opportunities. Earn a Higher Salary.</p>
-                                <a href="visa/study" class="btn btn-default btn-lg">Get Study Visa Now</a>
-                            </div>
+        </div>
+        <div class="item">
+            <img src="./../images/slider-large-2.jpg" alt="Immigration visa consultant HTML5 Template">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
+                        <div class="slider-captions">
+                            <h1 class="slider-title dotted-line">Study Visa</h1>
+                            <p class="slider-text">Move to your desired country for getting better educational opportunities. Earn a Higher Salary.</p>
+                            <a href="visa/study" class="btn btn-default btn-lg">Get Study Visa Now</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="item">
-                <img src="./../images/slider-large-3.jpg" alt="Immigration Consulting Bootstrap Responsive Website Template">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
-                            <div class="slider-captions">
-                                <h1 class="slider-title dotted-line">Travel Abroad</h1>
-                                <p class="slider-text">Explore New Places and Experience Different Cultures. Get a Global Mind-Set </p>
-                                <a href="/visit" class="btn btn-default btn-lg">Get Visit Visa</a>
-                            </div>
+        </div>
+        <div class="item">
+            <img src="./../images/slider-large-3.jpg" alt="Immigration Consulting Bootstrap Responsive Website Template">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
+                        <div class="slider-captions">
+                            <h1 class="slider-title dotted-line">Travel Abroad</h1>
+                            <p class="slider-text">Explore New Places and Experience Different Cultures. Get a Global Mind-Set </p>
+                            <a href="/visit" class="btn btn-default btn-lg">Get Visit Visa</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 <!-- slide  -->
 <div class="space-medium" stle="padding-top: 0 !important; margin-top:20rem !important;">
     <div class="container">
@@ -64,90 +64,374 @@ require("./partials/header.php");
         </div>
     </div>
 </div>
-<div class="container" style="margin-top: -4rem;">
+
+<div class="container">
     <div class="row">
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
-            <div class="card h-100">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Canada</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/canada/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/canada/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/canada/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/canada/">Dependent Visa</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
-            <div class="card h-100">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/australia.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">Australia</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/australia/">PR Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/australia/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/australia/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/australia/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/australia/">Dependent Visa</a></li>
-                    
-                    </ul>
-                </div>
-            </div>
-        </div>
+        <div class="col-xl-12 col-lg-12 col-sm-12 col-md-12 col-12">
+            <div class="visa-section visa-tabs">
+                <!-- Nav tabs -->
+                <ul class="nav nav-pills" style="justify-content: center" id="myTab" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="canada-tab" data-toggle="tab" href="#canada" role="tab" aria-controls="canada" aria-selected="true"><span><img src="images/country/canada.svg" alt="" class="flag-xs"></span> Canada</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="australia-tab" data-toggle="tab" href="#australia" role="tab" aria-controls="australia" aria-selected="false"><span><img src="images/country/australia.svg" alt="" class="flag-xs"></span> Australia</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="germany-tab" data-toggle="tab" href="#germany" role="tab" aria-controls="germany" aria-selected="false"> <span><img src="images/country/germany.svg" alt="" class="flag-xs"></span> Germany</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="usa-tab" data-toggle="tab" href="#usa" role="tab" aria-controls="usa" aria-selected="false"> <span><img src="images/country/united-states-of-america.svg" alt="" class="flag-xs"></span> USA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="united-kingdom-tab" data-toggle="tab" href="#united-kingdom" role="tab" aria-controls="united-kingdom" aria-selected="false"><span> <img src="images/country/united-kingdom.svg" alt="" class="flag-xs"></span> United Kingdom</a>
+                    </li>
+                </ul>
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <div class="tab-pane active fade show" id="canada" role="tabpanel" aria-labelledby="canada-tab">
+                        <div class="row">
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/pr/canada/express-entry/"> <img src="images/visa-img-5.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/pr/canada/express-entry/" class="title">PR Visa - Express Entry</a></h3>
+                                        <a href="/visa/pr/canada/express-entry/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
 
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
-            <div class="card h-100">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/germany.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">germany</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/pr/germany/job-seeker">Job Seeker Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/germany/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/germany/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/germany/">Business Visa</a></li>
-                    </ul>
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/pr/canada/provincial-nominee-program/"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/pr/canada/provincial-nominee-program/" class="title">PR Visa - PNP</a></h3>
+                                        <a href="/visa/pr/canada/provincial-nominee-program/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/study/canada/"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/study/canada/" class="title">Study Visa</a></h3>
+                                        <a href="/visa/study/canada/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/visit/canada/"> <img src="images/visa-img-6.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/visit/canada/" class="title">Visit Visa</a></h3>
+                                        <a href="/visa/visit/canada/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/business/canada/"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/business/canada/" class="title">Business Visa</a></h3>
+                                        <a href="/visa/business/canada/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/dependent/canada/"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/dependent/canada/" class="title">Dependent Visa</a></h3>
+                                        <a href="/visa/dependent/canada/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="australia" role="tabpanel" aria-labelledby="australia-tab">
+                        <div class="row">
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/pr/australia/"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/pr/australia/" class="title">PR Visa</a></h3>
+                                        <a href="/visa/pr/australia/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/study/australia/"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/study/australia/" class="title">Study Visa</a></h3>
+                                        <a href="/visa/study/australia/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/visit/australia/"> <img src="images/visa-img-6.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/visit/australia/" class="title">Visit Visa</a></h3>
+                                        <a href="/visa/visit/australia/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/business/australia/"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/business/australia/" class="title">Business Visa</a></h3>
+                                        <a href="/visa/business/australia/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/dependent/australia/"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/dependent/australia/" class="title">Dependent Visa</a></h3>
+                                        <a href="/visa/dependent/australia/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="germany" role="tabpanel" aria-labelledby="germany-tab">
+                        <div class="row">
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/pr/germany/job-seeker"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/pr/germany/job-seeker" class="title">Job Seeker Visa</a></h3>
+                                        <a href="/visa/pr/germany/job-seeker" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/study/germany/"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/study/germany/" class="title">Study Visa</a></h3>
+                                        <a href="/visa/study/germany/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/visit/germany/"> <img src="images/visa-img-6.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/visit/germany/" class="title">Visit Visa</a></h3>
+                                        <a href="/visa/visit/germany/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/business/germany/"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/business/germany/" class="title">Business Visa</a></h3>
+                                        <a href="/visa/business/germany/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="usa" role="tabpanel" aria-labelledby="usa-tab">
+                        <div class="row">
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/study/usa/"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/study/usa/" class="title">Study Visa</a></h3>
+                                        <a href="/visa/study/usa/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/visit/usa/"> <img src="images/visa-img-6.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/visit/usa/" class="title">Visit Visa</a></h3>
+                                        <a href="/visa/visit/usa/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/business/usa/"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/business/usa/" class="title">Business Visa</a></h3>
+                                        <a href="/visa/business/australia/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/dependent/usa/"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/dependent/usa/" class="title">Dependent Visa</a></h3>
+                                        <a href="/visa/dependent/usa/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="united-kingdom" role="tabpanel" aria-labelledby="united-kingdom-tab">
+                        <div class="row">
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/uk/skilled-worker-visa"> <img src="images/visa-img-4.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/uk/skilled-worker-visa" class="title">Skilled Worker Visa</a></h3>
+                                        <a href="/visa/uk/skilled-worker-visa" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/study/uk/"> <img src="images/visa-img-1.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/study/uk/" class="title">Study Visa</a></h3>
+                                        <a href="/visa/study/uk/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/visit/uk/"> <img src="images/visa-img-6.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/visit/uk/" class="title">Visit Visa</a></h3>
+                                        <a href="/visa/visit/uk/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/business/uk/"> <img src="images/visa-img-2.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/business/uk/" class="title">Business Visa</a></h3>
+                                        <a href="/visa/business/uk/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-3 col-12">
+                                <div class="visa-card">
+                                    <div class="visa-card-img zoomimg">
+                                        <a href="/visa/dependent/uk/"> <img src="images/visa-img-3.jpg" alt="" class="img-fluid"></a>
+                                    </div>
+                                    <div class="visa-card-content">
+                                        <h3 class="visa-card-title"><a href="/visa/dependent/uk/" class="title">Dependent Visa</a></h3>
+                                        <a href="/visa/dependent/uk/" class="btn-link-primary">Read More</a>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
-
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
-            <div class="card h-100">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/united-states-of-america.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">USA</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/usa/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/usa/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/usa/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/usa/">Dependent Visa</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3">
-            <div class="card">
-                <img class="card-img-top" style="max-width: 59px; margin: 0 auto; margin-top:1rem" src="images/country/canada.svg" alt="Card image cap">
-                <div class="card-body">
-                    <h2 class="card-title" style="text-align:center; margin-top:-1.5rem">UK</h2>
-                    <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/uk/skilled-worker-visa">Skilled Worker Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/study/uk/">Study Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/visit/uk/">Visit Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/business/uk/">Business Visa</a></li>
-                        <li class="list-group-item" style="padding:0 1.5rem"><a href="/visa/dependent/uk/">Dependent Visa</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
     </div>
-
 </div>
 <div class="space-large bg-light">
     <!-- Service section -->

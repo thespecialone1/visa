@@ -18,8 +18,9 @@ require("./../../partials/header.php")
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                <h2 class="page-title text-primary  text-shadow-grey">Migrate to Canada</h2>
-                <p class="page-description text-seconary text-shadow-black font-weight-light">Contact us page design in bootstrap template using HTML5 &amp; CSS3. Best HTML5 &amp; CSS3 Contact Form Templates.
+                <h2 class="page-title   text-shadow-black">Migrate to Canada</h2>
+                <p class="page-description  text-shadow-black font-weight-light">
+                As per the UN report on migration, over 280 million migrants are currently on the globe. They are finding better places to live happier lives, have rewarding careers, and enjoy a more inclusive social environment.
                 </p>
             </div>
         </div>
@@ -185,7 +186,7 @@ require("./../../partials/header.php")
             <div class="card mb-3">
                 <img class="card-img-top" src="./images/torronto.jpeg" alt="Card image cap">
                 <div class="card-body">
-                    <h2 class="text-primary" class="card-text">Toronto</h2>
+                    <h2 class="text-primary" class="card-text ">Toronto</h2>
                 </div>
             </div>
         </div>
