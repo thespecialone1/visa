@@ -15,8 +15,9 @@ require("./../../../partials/header.php");
                <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-12 mb60">
                   <div class="section-title text-center ">
                      <!-- section title start-->
-                      
-                     <h2 class="mb-20 text-primary font-weight-bold">Why Study in Canada? </h2>
+                     <div class="mt-40 col-xl-12 xol-lg-12 col-md-12 col-sm-12 col-12">
+                           <h2 class="bg-secondary coaching-card py-3 d-flex justify-content-center location-section shadow text-light font-weight-bold">Why Study in Canada ?</h2>
+                        </div>
                      <div class="d-flex flex-row justify-content-between">
                      <p>Top 10 QS ranking Universities<span class="font-weight-bold text-secondary"> (Top 10 )</span></p>
                      <p>Inexpensive tuition fees<span class="text-secondary font-weight-bold"> Earn and study</span></p>
@@ -99,40 +100,30 @@ require("./../../../partials/header.php");
             </div>
          </div>
       </div>
-
-      <div class="space-medium" stle="padding-top: 0 !important; margin-top:20rem !important;">
-    <div class="container">
-        <div class="row">
-            <div class="offset-xl-2 col-xl-8 offset-lg-2 col-lg-8   col-md-12 col-sm-12 col-12">
-                 <div class="section-title text-center">
-                    <!-- section title start-->
-                    <h2 class="text-primary font-weight-bold">Tuition Fees for Studying in Canada</h2>
-                 </div>
-                <!-- /.section title start-->
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="d-flex content">
+      <div class="d-flex content">
         <div class="d-flex container">
             <div class="row d-flex ">
-                <div class=" col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                  
                     <div class="coaching-card  location-section shadow">
                         <!-- coaching card -->
-                        
+                        <div class="mt-40 col-xl-8">
+                           <h2 class="bg-secondary coaching-card py-3 d-flex justify-content-center location-section shadow text-light font-weight-bold">Tuition Fees for Studying in Canada</h2>
+                        </div>
                         <div class="coaching-card-body">
-                            <span class="coaching-card-title font-italic">Get access for an affordable quality education!</span><br><br>
-                            <span class="font-weight-normal">The tuition fees vary s by institution and province. But compared to the cost of studies in other countries, Canada is very affordable. Compared to Art Courses, Medical and Technical Courses are more expensive.
-<br>
+                        <span class="coaching-card-title font-italic">Get access for an affordable quality education!</span><br>
+                            
+                        <span class="font-weight-normal">The tuition fees vary s by institution and province. But compared to the cost of studies in other countries, Canada is very affordable. Compared to Art Courses, Medical and Technical Courses are more expensive.
+<br><br>
 On an average, the annual tuition fees range between CAD 7,000 and CAD 35,000 if you are an international student.</span>
 <br>
-                            <table class="mt-4 table table-bordered">
+</span>
+<table class="mt-4 table table-bordered">
   <thead>
     <tr>
       <th scope="col" class="font-weight-bold">#</th>
-      <th scope="col" class="font-weight-bold text-default">Study Program</th>
-      <th scope="col" class="font-weight-bold text-default">Average Annual Fees in CAD</th>
+      <th scope="col" class="font-weight-bold text-primary">Study Program</th>
+      <th scope="col" class="font-weight-bold text-primary">Average Annual Fees in CAD</th>
       
     </tr>
   </thead>
@@ -156,7 +147,7 @@ On an average, the annual tuition fees range between CAD 7,000 and CAD 35,000 if
     </tr>
     </tbody>
 </table>
-                            <a href="#" class="btn-link-primary">Read More</a>
+                           
                         </div>
                     </div>
                     <!-- /.coaching card -->
@@ -166,6 +157,88 @@ On an average, the annual tuition fees range between CAD 7,000 and CAD 35,000 if
             </div>
         </div>
     </div>
+      
+
+    <div class="content p-0">
+        <div class="container">
+            <div class="row">
+            <div class="space-medium coaching-card  location-section shadow py-2 pdt0">
+            <h2 class="pdb0 col-xl-8 bg-secondary coaching-card py-2 d-flex justify-content-center location-section shadow text-light font-weight-bold">HOW TO APPLY FOR CANADA STUDENT VISA?</h2>
+                <div class="pdt0 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="content-area pdt0">
+                        
+                        <ul class="listnone check-circle">
+                            <li><span class="text-primary font-weight-bold">Step 1</span> - Meet the eligibility criteria <br>
+                            <span class="font-italic">Before submitting your Canada Student Visa application, you must check your eligibility criteria. You have to carefully go through the eligibility requirements to apply for the Canada Student Visa. </span>
+                            </li>
+                            <hr>
+                            <li><span class="text-primary font-weight-bold">Step 2</span> - Arrange all the requirements <br>
+                            <span class="font-italic">You have to gather all the Canada student visa requirements as per the checklist. </span>
+                            </li>
+                            <hr>
+                            <li><span class="text-primary font-weight-bold">Step 3</span> - Duly fill out the form <br>
+                            <span class="font-italic">You need to carefully fill out the Canada Student Visa form, which is available online. </span>
+                            </li>
+                            <hr>
+                            <li><span class="text-primary font-weight-bold">Step 4</span> - Receive notification<br>
+                            <span class="font-italic">You will receive a notification from authorities after submitting your Canada Student Visa form.</span>
+                            </li>
+                            <hr>
+                            <li><span class="text-primary font-weight-bold">Step 5</span> -  Check your Canada student visa status<br>
+                            <span class="font-italic">You will be notified about the status of your Canada Student Visa application.</span>
+                            </li>
+                            
+                        </ul>
+                        <hr>
+                        <h3 class="font-weight-bold text-primary">STUDY INTAKES IN CANADA</h3>
+                        <p>The academic year in the UK runs from September to July. Universities and Colleges in the UK have 3 intakes and some of them may also refer to intake as a term. <br>
+                            You are advised to apply 6 to 9 months before the academic session starts. When you apply closer to the deadline, admissions and scholarships become difficult.</p>
+                        <p> The 3 intakes available in the UK are:</p>
+                        <div class="row">
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            
+                                <!-- How it work card -->
+                                <div class="card-how-it-work">
+                                    <div class="card-how-it-work-body">
+                                        <h2 class="number-cirle">1</h2>
+                                        <p><span class="text-primary font-weight-normal"> Fall Semester</span> - Starts in September</p>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+                            <!-- /.How it work card -->
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <!-- How it work card -->
+                                <div class="card-how-it-work">
+                                    <div class="card-how-it-work-body">
+                                        <h2 class="number-cirle">2</h2>
+                                        <p><span class="text-primary font-weight-normal">Winter Semester</span> - Starts in January</p>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+                            <!-- /.How it work card -->
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <!-- How it work card -->
+                                <div class="card-how-it-work">
+                                    <div class="card-how-it-work-body">
+                                    <h2 class="number-cirle">3</h2>
+                                        <p><span class="text-primary font-weight-normal">Summer Semester</span>  - Usually starts in April/May and is available for limited programs and colleges</p>
+                                    </div>
+                                    <div class="slanting-pattern-small"></div>
+                                </div>
+                            </div>
+                            <!-- /.How it work card -->
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+   
+
+
+
+
 
     <div class="d-flex justify-content-center col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb30">
                     
