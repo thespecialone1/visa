@@ -178,8 +178,8 @@ require("./../../../partials/header.php");
   <thead>
     <tr>
       <th scope="col" class="font-weight-bold">#</th>
-      <th scope="col" class="font-weight-bold text-default">Study Program</th>
-      <th scope="col" class="font-weight-bold text-default">Average Tuition Fees in €</th>
+      <th scope="col" class="font-weight-bold text-primary">Study Program</th>
+      <th scope="col" class="font-weight-bold text-primary">Average Tuition Fees in €</th>
       
     </tr>
   </thead>
@@ -198,7 +198,6 @@ require("./../../../partials/header.php");
     </tr>
     </tbody>
 </table>
-                            <a href="#" class="btn-link-primary">Read More</a>
                         </div>
                     </div>
                     <!-- /.coaching card -->
