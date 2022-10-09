@@ -76,7 +76,7 @@ require("./../../partials/header.php")
             </ul>
         </div>
 
-        <div class="col-12 col-md-4 ">
+        <div class="col-12 col-md-4 mt-5">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>What to Expect from Migration to the UK?</h1>
             </div>
@@ -120,7 +120,7 @@ require("./../../partials/header.php")
             </div>
 
         </div>
-        <div class="col-12 col-md-8 my-2">
+        <div class="col-12 col-md-8 mt-5">
             <p>With deep knowledge of the UK immigration policies, Y-Axis offers you superior guidance and counsels you on all necessary procedures and requirements to increase your chances of UK immigration from the UAE.</p>
 
             <div class="card border-dark mb-3">
@@ -141,12 +141,12 @@ require("./../../partials/header.php")
     </div>
 
     <div class="row mt-5">
-        <div class="col-12 col-md-4 mt-5">
+        <div class="col-12 col-md-4 ">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>The most In-Demand Sectors in UK</h1>
             </div>
         </div>
-        <div class="col-12 col-md-8  mt-5 ">
+        <div class="col-12 col-md-8   ">
             <p>The most In-demand Sectors in UK are following</p>
             <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 1rem; ">
                 <li>IT</li>

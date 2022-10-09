@@ -58,7 +58,7 @@ require("./../../partials/header.php")
             <p class="text-danegr">The average annual salary in the US offered is ten times more than the annual salary in several countries in the Middle East.</p>
         </div>
 
-        <div class="col-12 col-md-4 ">
+        <div class="col-12 col-md-4 mt-5 ">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>Opportunities in USA</h1>
             </div>
@@ -121,7 +121,8 @@ require("./../../partials/header.php")
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>The eligibility criteria for USA Immigration from UAE differs for each program (USA work visa, investment visa, or dependent visa). Below is the list of general eligibility requirements, which is common for all. These include:</p>
-            <ul>
+            <ul class="list-group list-group-flush check-circle listnone">
+
                 <li><b>Age:</b> You should be 18 years of age.</li>
                 <li><b>Educational qualifications:</b> You should have the minimum educational qualifications equal to higher secondary education in the USA.</li>
                 <li><b>Language proficiency tests:</b> You should score minimum marks in language proficiency tests such as IELTS (6+) or TOEFL.</li>
