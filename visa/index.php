@@ -2,7 +2,7 @@
 require("./../partials/header.php");
 ?>
 
-<br><br>
+<br><br><br><br><br>
 
     <div class="page-breadcrumb">
         <!-- page breadcrumb -->
@@ -306,174 +306,19 @@ You must prepare a checklist of points before taking the big call, as it plays a
 <br>
 <span >We have listed the top courses to study for both Undergraduate and Postgraduate Study Programs.</span>
 </span>
-
+</div class="mb40 mt40 d-flex  justify-content-center"><a href="#" class="btn btn-primary">Get Counseled</a>
+            </div>
                 </div>
+                
             </div>
         </div>
     </div>
-<hr>
 
-<div class="space-medium py-5 mb10">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="section-title mb-15">
-                        <!-- section title start-->
-                        <h2 class="font-weight-bold">Undergraduate Study Programs</h2>
-                    </div>
-                    <!-- /.section title start-->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-12 col-sm-6 col-12">
-                <h5 class="font-italic font-weight-normal text-muted">World Wide Immigration is the right path for taking a decisive step in your life. </h5>
-<h3 class="font-weight-normal">MBBS</h3>
-<span class="font-italic">Select a WHO recognized University to become a Global Doctor!</span>
-<br>
-<br>
-<span class="font-weight-normal">Study MBBS Abroad, sounds exciting right! Many countries are considered to be the best for pursuing MBBS. These are well-known for delivering not just economical options but providing high-quality education. MBBS in a foreign country promises better prospects to become a Global Doctor.</span>
-</span>
-<hr>
-<h3 class="font-weight-normal">ENGINEERING</h3>
-<span class="font-italic">Pursue an Engineering program with global exposure!</span>
-<br>
-<br>
-<span class="font-weight-normal">Engineering programs are among the most popular following high school, with a wide range of subjects. If you want to pursue a degree in engineering, you might be wondering which country is the best to study. Every country has unique engineering courses, such as comprehensive programs or research-oriented courses.</span>
-</span>
-<hr>
-<h3 class="font-weight-normal">Post Graduate Study Programs</h3>
-
-<br>
-<span class="font-weight-normal">The Postgraduates Study Programs includes</span>
-</span>
-<hr>
-<h3 class="font-weight-normal">MBA/PGDM</h3>
-<span class="font-italic">Study MBA/PGDM Abroad to become a pro in strategic management!</span>
-<br>
-<br>
-<span class="font-weight-normal">MBA is one of the most popular courses, but it is important to consider the reasons for doing an MBA abroad as well as the type of university you will attend. Various factors need to be considered, including cost, post-study work options, and job prospects when deciding to do an MBA abroad. These factors, combined with the university's reputation, can help open doors. As a result, it is critical to select a study location before applying.</span>
-</span>
-<hr class="border border-primary">
-<h3 class="font-weight-norma l">MS</h3>
-<span class="font-italic">Study MS abroad, the most sought-after course in this competitive world!</span>
-<br>
-<br>
-<span class="font-weight-normal">MS is one of the most popular courses for overseas students due to the weight that an MS degree carries on your resume. All of the world's leading universities offer outstanding MS programs, which attract the brightest brains. However, this makes it much more difficult for students to choose their university. It is better to get expert advice when making your choice..</span>
-</span>
-</span>
-<hr>
-<h3 class="font-weight-normal">Ph.D.</h3>
-<span class="font-italic">Doctorate your research globally!</span>
-<br>
-<br>
-<span class="font-weight-normal">A good Ph.D. should push the academic field’s boundaries. As a student, this can often entail moving out of the country, which is why millions of postgraduates opt to study Ph.D. abroad each year to find the greatest expertise and facilities for their doctoral research. For an international Ph.D., you’ll have a lot of options to select from your subject of interest.</span>
-</span>
-<hr>
-                </div>
-            </div>
-        </div>
-    </div>
-<hr>
-
-
-
-
+    
 
 
  <!-- /. News section -->
- <div class="bg-primary space-small">
-                    <!-- call to action -->
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-8 col-lg-8 col-md-7 col-sm-6 col-12">
-                                <h2 class="mb10 text-white">Free online assessment</h2>
-                                <p>Fusce venenatis lectus non est congue vitae malesuada neque lacinia. </p>
-                            </div>
-                            <div class="col-xl-4 col-lg-4 col-md-5 col-sm-6 col-12 text-center">
-                                <a href="#" class="btn btn-default btn-lg mt10">Get Free Assessment</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-dark">
-                    <!-- Footer -->
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-3 col-6">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">Country</h3>
-                                    <ul class="listnone arrow-footer">
-                                        <li><a href="#">Canada</a></li>
-                                        <li><a href="#">United States</a></li>
-                                        <li><a href="#">United Kingdom</a></li>
-                                        <li><a href="#">Australia</a></li>
-                                        <li><a href="#">New Zealand</a></li>
-                                        <li><a href="#">Singapore</a></li>
-                                        <li><a href="#">South Africa</a></li>
-                                        <li><a href="#">Germany</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-3 col-6">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">Visas</h3>
-                                    <ul class="listnone arrow-footer">
-                                        <li><a href="#"> Students Visas</a></li>
-                                        <li><a href="#">Business Visas</a></li>
-                                        <li><a href="#">Family Visas</a></li>
-                                        <li><a href="#">Travel Visas</a></li>
-                                        <li><a href="#">Work Visas</a></li>
-                                        <li><a href="#">Visitor Visas</a></li>
-                                        <li><a href="#">Migrate Visas</a></li>
-                                        <li><a href="#">PR Visas</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-3 col-6">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">Contact Us</h3>
-                                    <strong>Corporate Office</strong>
-                                    <address>2279 Fire Access Road
-                                        <br> Greensboro, NC 27401</address>
-                                    <p>1800 102 4150
-                                        <br> 1800 102 4151</p>
-                                    <p><a href="#">Schedule a Meeting</a>
-                                        <br>
-                                        <a href="#">Talk to our Expert</a></p>
-                                </div>
-                            </div>
-                            <div class="col-xl-2 col-lg-2 col-md-4 col-sm-2 col-6">
-                                <div class="widget-footer widget-social">
-                                    <h3 class="widget-title">Connect</h3>
-                                    <ul class="listnone">
-                                        <li><a href="#"><i class="fa fa-facebook social-icon"></i> Facebook</a></li>
-                                        <li><a href="#"><i class="fa fa-twitter social-icon"></i> Twitter</a></li>
-                                        <li><a href="#"><i class="fa fa-instagram social-icon"></i> Instagram</a></li>
-                                        <li><a href="#"><i class="fa fa-youtube social-icon"></i> Youtube</a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin social-icon"></i> Linked In</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="widget-footer">
-                                    <h3 class="widget-title">GET IMMIGRATION TIPS & NEWS</h3>
-                                    <p>Sign up for our Newsletter and join us on the path to success.</p>
-                                    <form method="post" action="https://jituchauhan.com/visa/visapress/newsletter-email.php">
-                                        <div class="form-row">
-                                            <div class="form-group col-md-12">
-                                                <label for="newsletteremail">Email</label>
-                                                <input type="email" class="form-control" id="newsletteremail" name="newsletteremail" placeholder="Enter Email Address">
-                                            </div>
-                                        </div>
-                                        <button type="submit" class="btn btn-default">Sign UP</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
+ 
 <?php
 require("./../partials/footer.php");
 ?>
