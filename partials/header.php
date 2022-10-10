@@ -44,7 +44,7 @@
             <!-- topbar transparent-->
             <div class="container">
                 <div class="row">
-                    
+
                     <div class="col-xl-12 col-lg-6 col-md-12 col-sm-12 col-12">
                         <div class="header-block">
                             <span class="header-link d-none d-xl-block d-md-block"><a href="#">Talk to Our Expert</a></span>
@@ -60,8 +60,11 @@
         <!-- header classic -->
         <div class="container">
             <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="/" class="logo"><img src="/images/WWILOGO (2)(1).png" alt="World Wide Immigration Consulting Website"></a>
-                    <div class="d-flex font-weight-bold text-white">WORLD WIDE IMMIGRATION</div>
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 header-logo-text-container" >
+                    <a href="/" class="logo"><img src="/images/WWILOGO (2)(1).png" alt="World Wide Immigration Consulting Website">
+                        <div class="d-flex font-weight-bold text-white header-logo-text" >WORLD WIDE IMMIGRATION</div>
+                    </a>
+
                 </div>
                 <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div id="navigation-transparent" class="navigation-transparent">
@@ -198,4 +201,3 @@
             </div>
         </div>
     </div>
-   
