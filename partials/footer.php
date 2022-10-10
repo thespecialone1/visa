@@ -8,7 +8,7 @@
                                 <p>Fusce venenatis lectus non est congue vitae malesuada neque lacinia. </p>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-5 col-sm-6 col-12 text-center">
-                                <a href="#" class="btn btn-default btn-lg mt10">Get Free Assessment</a>
+                                <a href="#" class="btn btn-secondary btn-lg mt10">Get Free Assessment</a>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                                                 <input type="email" class="form-control" id="newsletteremail" name="newsletteremail" placeholder="Enter Email Address">
                                             </div>
                                         </div>
-                                        <button type="submit" class="btn btn-default">Sign UP</button>
+                                        <button type="submit" class="btn btn-secondary">Sign UP</button>
                                     </form>
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <p>Copyright © 2018 <a href="#">VisaPress</a>. All Rights Reserved.</p>
+                                <p>Copyright © 2018 <a href="#">World Wide Immigration</a>. All Rights Reserved.</p>
                             </div>
                         </div>
                     </div>
@@ -138,5 +138,4 @@
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/visa/visapress/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 10:17:22 GMT -->
 </html>

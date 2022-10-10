@@ -2,7 +2,7 @@
 require("./../../partials/header.php");
 ?>
 
-
+<br><br><br><br><br>
 <div class="content pdb0">
         <div class="container">
             <div class="row">
@@ -44,7 +44,8 @@ require("./../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>APPLY FOR A VISIT VISA</b></h1>
+                <h1><b>REQUIREMENTS TO OBTAIN VISIT VISA
+</b></h1>
             </div>
             </div>
                     </div>
@@ -73,7 +74,10 @@ require("./../../partials/header.php");
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                        <h3>APPLICATION PROCESS</h3>
+                        <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
+                <h1><b>APPLICATION PROCESS
+</b></h1>
+            </div>
                         <p>With the help of a <b class="text-primary">tourist visa agent</b>, you can get through the application steps that include:.</p>
                         <ul class="listnone check-circle">
                             <li>Fill the Electronic Tourist Visa Application form</li>
@@ -87,12 +91,37 @@ require("./../../partials/header.php");
             </div>
         
         
-            </div>           
+            </div>   
+            <div class="space-small">
+                <div class="row">
+                    <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
+                    <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
+                <h1><b>PROCESSING TIME OF TOURSIT VISA
+
+</b></h1>
             </div>
-            <div class="mt40 mb40 justify-content-center">
-                                <a href="#" class="btn btn-primary">Get Free Assessment</a>
-                                </div>
             </div>
+                    </div>
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <ul class="listnone check-circle">
+                        <li>The processing time for a Tourist Visa is diverse based on the nation offering it. It also depends on the nationality of the applicant. For example, it takes around 3 to 5 days to 1 to 2 weeks to process the US Tourist Visa.</li>
+                        <li>Generally, an Australian tourist visa takes approximately 20 days from submission. There may be delays as you may be asked to send further papers.</li>
+                        <li>For a US visa application to be approved, it takes 3 to 5 weeks. After processing, the applicant will receive a positive reply to their application, and the consulate will deliver the document. The visa may take up to two additional working days to be delivered</li>
+                        <li>Usually, the duration can range from a few days to a few weeks for a Canada Tourist Visa processing period. The processing period is just 12 days if you apply from inside Canada.</li>
+                        <li>For the UK, if you apply from outside of the UK, you can get a decision on your visa within three weeks.</li>
+                    </ul>
+                    </div>
+                    </div class="mb40 mt40 d-flex  justify-content-center"><a href="#" class="btn btn-primary">Get Counseled</a>
+            </div>
+        
+                </div>
+            </div>
+        </div>
+            </div>
+            
+            </div>
+            
     </div>
     </div>
 

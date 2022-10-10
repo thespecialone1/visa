@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from jituchauhan.com/visa/visapress/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 10:15:53 GMT -->
+
 
 <head>
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="best visa immigration business consulting websites templates">
     <meta name="keywords" content="consulting websites templates">
-    <title>VisaPress - Visa Immigration Consulting Website Template</title>
+    <title>World Wide Immigration Consulting Website</title>
     <!-- Bootstrap -->
     <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
     <!-- custom bootstrap  -->
@@ -50,7 +50,7 @@
                             <span class="header-link d-none d-xl-block d-md-block"><a href="#">Talk to Our Expert</a></span>
                             <span class="header-link">+1 800 123 4567</span>
                             <span class="header-link"> <button type="submit" class="" data-toggle="modal" data-target="#searchModal"> <i class="fa fa-search text-white"></i></button></span>
-                            <span class="header-link"><a href="#" class="btn btn-default btn-sm">Apply Now</a></span>
+                            <span class="header-link"><a href="#" class="btn btn-secondary btn-sm">Apply Now</a></span>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,9 @@
         <!-- header classic -->
         <div class="container">
             <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="/" class="logo"><img src="/images/logo-3.png" alt="Visapress an Immigration and Visa Consulting Website Template"></a></div>
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12"><a href="/" class="logo"><img src="/images/WWILOGO (2)(1).png" alt="World Wide Immigration Consulting Website"></a>
+                    <div class="d-flex font-weight-bold text-white">WORLD WIDE IMMIGRATION</div>
+                </div>
                 <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div id="navigation-transparent" class="navigation-transparent">
                         <!-- navigation -->
