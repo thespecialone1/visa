@@ -96,7 +96,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <p>Copyright © 2018 <a href="#">VisaPress</a>. All Rights Reserved.</p>
+                                <p>Copyright © 2018 <a href="#">World Wide Immigration</a>. All Rights Reserved.</p>
                             </div>
                         </div>
                     </div>
@@ -138,5 +138,4 @@
 </body>
 
 
-<!-- Mirrored from jituchauhan.com/visa/visapress/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 10:17:22 GMT -->
 </html>

@@ -440,7 +440,7 @@ require("./partials/header.php");
             <div class="offset-lg-2 col-lg-8 col-md-12 col-sm-12 col-xs-12">
                 <div class="section-title text-center">
                     <!-- section title start-->
-                    <h2>Why Visapress Immigration?</h2>
+                    <h2>Why World Wide Immigration Immigration?</h2>
                     <p> Since our founding, our primary goal has been to provide immigration in all over country and universities. Our impact is speak louder than our word.</p>
                 </div>
                 <!-- /.section title start-->
@@ -505,7 +505,7 @@ require("./partials/header.php");
                     </li>
                     <li>Exam Preparation Information</li>
                 </ul>
-                <a href="#" class="btn btn-default">About visa press</a> <a href="#" class="btn btn-primary">Contact us</a>
+                <a href="#" class="btn btn-default">About World Wide Immigration</a> <a href="#" class="btn btn-primary">Contact us</a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-5 col-sm-6 col-12">
                 <div class="img-block">
