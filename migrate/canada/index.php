@@ -166,7 +166,8 @@ require("./../../partials/header.php")
             <P>
                 Here are certain facts that you can learn about life in Canada, which can influence your decision to plan a future in Canada:
             </P>
-            <ul>
+            <ul class="list-group list-group-flush check-circle listnone" >
+
                 <li>More than just the economic outcomes, Canadian immigrants have faith in finding an improvement in their general quality of life in Canada.</li>
                 <li>Groups of immigrants settling in Canada arriving from countries with lower GDP are seen to derive larger differences in life satisfaction. This is higher compared to immigrants arriving in Canada from high GDP nations.</li>
                 <li>Canadian employers are looking to add 49% new permanent job positions in 2022. 45% of total hirings to permanent jobs will be to hire skilled candidates to vacant positions.</li>
@@ -228,7 +229,8 @@ require("./../../partials/header.php")
         </div>
         <div class="col-12 col-md-8 my-2">
             <p>Every year thousands of expats migrate to Canada from UAE. Even though UAE boasts a high quality of life, many of them choose Canada immigration because of these interesting reasons:</p>
-            <ul>
+            <ul class="list-group list-group-flush check-circle listnone" >
+
                 <li>An easy path to citizenship</li>
                 <li>Universal health care facilities</li>
                 <li>A plethora of nature and wildlife</li>
@@ -263,7 +265,8 @@ require("./../../partials/header.php")
         </div>
         <div class="col-12 col-md-8 my-2">
             <h2 class="text-primary" style="font-weight:100">The eligibility criteria for Canada Immigration differs for each program like:</h2>
-            <ul>
+            <ul class="list-group list-group-flush check-circle listnone" >
+
                 <li>Express Entry Program</li>
                 <li>Quebec Skilled Worker Program (QSWP)</li>
                 <li>Provincial Nominee Program (PNP)</li>
