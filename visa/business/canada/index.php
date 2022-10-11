@@ -173,6 +173,11 @@ require("./../../../partials/header.php")
         <div class="col-12 col-md-4">
         </div>
         <div class="col-12 col-md-8 my-2">
+        <div class="wrap-heading-squared my-5">
+        <div class="heading-squared">
+            <h1>FAQ</h1>
+        </div>
+    </div>
             <div id="accordion">
                 <div class="card-accordion">
                     <div class="card-accordion-header" id="headingOne">
@@ -249,6 +254,21 @@ require("./../../../partials/header.php")
                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion" style="">
                         <div class="card-accordion-body">
                             <p>This will depend on the workload of the Embassy of Canada that you have applied to. You may have to wait for 1 to 6 weeks for processing your Canada Business Permit.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-accordion">
+                    <div class="card-accordion-header" id="headingFour">
+                        <h5 class="mb-0">
+                            <button class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            How much money is required for a Canadian Business Permit?
+                            </button>
+                        </h5>
+                    </div>
+                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion" style="">
+                        <div class="card-accordion-body">
+                            <p>Canada has diverse programs under Provincial Business Immigration that are a great option over investment immigration. The minimum investment required is often as less as CAD $100,000.</p>
                         </div>
                     </div>
                 </div>
