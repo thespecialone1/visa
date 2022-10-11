@@ -44,13 +44,13 @@ require("./../../../partials/header.php")
 
     </div>
 
-    <div class="row mt-5 justify-content-md-center">
-        <div class="col-12 col-md-4">
+    <div class="row  justify-content-md-center">
+        <div class="col-12 col-md-4 mt-5">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>Canada Business Permit</h1>
             </div>
         </div>
-        <div class="col-12 col-md-8">
+        <div class="col-12 col-md-8 mt-5">
             <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
                 <p>
                     Foreign nationals can visit Canada for a limited time to conduct business with Canadian companies holding a permit under the Business Visitor category. The successful applicants would be able to explore business prospects, engage with Canadian business counterparts, and attend trade shows. This permit, however, does not allow applicants to work in Canada.
@@ -58,12 +58,12 @@ require("./../../../partials/header.php")
             </ul>
         </div>
 
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-4 mt-5">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>With the Canada Business Permit One Can:</h1>
             </div>
         </div>
-        <div class="col-12 col-md-8 my-2">
+        <div class="col-12 col-md-8 mt-5">
             <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
                 <li>Visit Canada for the purpose of business</li>
                 <li>Attend trade shows and conferences</li>
@@ -73,12 +73,12 @@ require("./../../../partials/header.php")
             </ul>
         </div>
 
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-4 mt-5">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>Eligibility Requirements</h1>
             </div>
         </div>
-        <div class="col-12 col-md-8 my-2">
+        <div class="col-12 col-md-8 mt-5">
             <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
                 <li>You must have a legitimate and good reason for visiting the country.</li>
                 <li>You must have enough money to support yourself and any dependents during your stay.</li>
@@ -89,12 +89,12 @@ require("./../../../partials/header.php")
             </ul>
         </div>
 
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-4 mt-5">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>Business Immigration to Canada</h1>
             </div>
         </div>
-        <div class="col-12 col-md-8 my-2">
+        <div class="col-12 col-md-8 mt-5 ">
             <p>
                 If you are a non-Canadian and want to start a new business or company in Canada, then you can use the permit under the Canada Startup program.
             </p>
@@ -117,12 +117,12 @@ require("./../../../partials/header.php")
 
 
 
-        <div class="col-12 col-md-4">
+        <div class="col-12 col-md-4 mt-5">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>Eligibility Requirements for Visa Applicants are:</h1>
             </div>
         </div>
-        <div class="col-12 col-md-8 my-2">
+        <div class="col-12 col-md-8 mt-5">
             <ul class="list-group list-group-flush check-circle listnone" style="margin-bottom: 0; ">
                 <li>Proof that the business has the required support from a designated entity in the form of a Commitment Certificate and Letter of Support</li>
                 <li>Have a qualifying business</li>
@@ -169,7 +169,7 @@ require("./../../../partials/header.php")
 </section>
 
 <section class="container faq">
-    <div class="row mt-5">
+    <div class="row ">
         <div class="col-12 col-md-4">
         </div>
         <div class="col-12 col-md-8 my-2">

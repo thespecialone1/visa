@@ -44,6 +44,11 @@ require("./../../../partials/header.php")
 
     </div>
 
+
+
+
+    <div class="row justify-content-md-center">
+
     <div class="col-12 col-md-4 mt-5">
         <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
             <h1>Expert Support for your Australia Business Visa</h1>
@@ -54,9 +59,6 @@ require("./../../../partials/header.php")
             Being the 13th largest national economy by nominal GDP (Gross Domestic Product), Australia,a developed country, offers great scope for your business to grow. To flourish your business in Australia, you need to have an Australia Business Visa.
         </p>
     </div>
-
-
-    <div class="row justify-content-md-center">
         <div class="col-12 col-md-4 mt-5 ">
             <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen">
                 <h1>Australia Business Visa or Subclass 600</h1>
@@ -177,7 +179,7 @@ require("./../../../partials/header.php")
 
 
 <section class="container faq">
-    <div class="row mt-5">
+    <div class="row">
         <div class="col-12 col-md-4">
         </div>
         <div class="col-12 col-md-8 my-2">

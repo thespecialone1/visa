@@ -9,13 +9,14 @@
         display: inline-block;
     }
     .heading-border-style h1 {
+        text-align: left !important;
         position: relative;
         font-weight: 100;
       }
 }
 @media only screen and (max-width:500px){
     .heading-border-style h1{
-        text-align: left !important;
+        text-align: center !important;
     }
 }
 /* CSS Document */
