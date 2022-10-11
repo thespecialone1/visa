@@ -173,11 +173,11 @@ require("./../../../partials/header.php")
         <div class="col-12 col-md-4">
         </div>
         <div class="col-12 col-md-8 my-2">
-        <div class="wrap-heading-squared my-5">
-        <div class="heading-squared">
-            <h1>FAQ</h1>
-        </div>
-    </div>
+            <div class="wrap-heading-squared my-5">
+                <div class="heading-squared">
+                    <h1>FAQ</h1>
+                </div>
+            </div>
             <div id="accordion">
                 <div class="card-accordion">
                     <div class="card-accordion-header" id="headingOne">
@@ -262,7 +262,7 @@ require("./../../../partials/header.php")
                     <div class="card-accordion-header" id="headingFour">
                         <h5 class="mb-0">
                             <button class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            How much money is required for a Canadian Business Permit?
+                                How much money is required for a Canadian Business Permit?
                             </button>
                         </h5>
                     </div>
