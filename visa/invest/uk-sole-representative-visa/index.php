@@ -8,10 +8,10 @@ require("./../../../partials/header.php");
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>AUSTRALIA BUSINESS INNOVATION STREAM</b></h1>
+                <h1><b>UK PERMIT FOR SOLE REPRESENTATIVES</b></h1>
             </div>
-            <p>The Australian business permit program assists entrepreneurs, senior executives, and investors in establishing new or expanding existing firms in Australia. This could be a stepping stone to permanent residence. One of these options is the Business Innovation stream (Subclass 188).</p>
-            <p>With this permit you can own and manage a business in Australia or conduct a business or investment activity or entrepreneurial activity in Australia.</p>
+            <p>The UK allows foreign enterprises to establish a commercial presence in the UK by sending a senior representative (Sole representative). </p>
+            <p>Foreign corporations are given permits to enable them establish a branch or subsidiary of their parent company in the United Kingdom.</p>
                     
                     <div class="bg-light space-medium">
             <div class="container">
@@ -22,22 +22,18 @@ require("./../../../partials/header.php");
                 </div>
             </div>
             <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>ELIGIBILITY REQUIREMENTS:</b></h1>
+                <h1><b>WHO IS A SOLE REPRESENTATIVE?</b></h1>
             </div>
+            <p><b>A sole representative is a foreign national who is:</b></p>
             <ul class="listnone check-circle">
-                            <li>Submission of your Expression of Interest in SkillSelect</li>
-                            <li>Nomination from a state or territory government agency or Austrade</li>
-                            <li>The applicant must qualify for either one of the three permit sub-categories:
-                                <div>
-                                <ul >
-                                <li>Business Innovation</li>
-                                <li>Business Investment</li>
-                                </ul>
-                                </div>
+                            <li>An (employee) of a company based outside of the UK who is looking to open a branch or subsidiary in the UK.</li>
+                            <li>A company executive who is not the owner but has the expertise and power to make business decisions on the company’s behalf.</li>
+                            <li>Individual who will replace the existing sole representative
+                                
                             </li>
-                            <li>Classification as a significant investor.</li>
+                            <li>An employee of a newspaper, news agency, or broadcasting organization based in a country other than the United Kingdom.</li>
                         </ul>
-                        <p><b>The applicant must be below 55 years when submitting the application. They should have a detailed plan for the business or be willing to invest in an existing business in Australia. He should have at least 65 points which are based on various factors that include age, education, previous business activities, and investment experience.</b></p>
+                     
     
                     </div>
                 </div>
@@ -49,33 +45,20 @@ require("./../../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>THE 7 CATEGORIES OF PROVISIONAL PERMIT PROGRAM</b></h1>
+                <h1><b>ELIGIBILITY REQUIREMENTS</b></h1>
             </div>
             </div>
                     </div>
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                        <p><b>You as a sole representative must:</b></p>
                     <ul class="listnone check-circle">
-                        <li>Business Innovation Stream: </li>
-                        <b>This provisional permit allows you to operate a new or existing business in Australia.  You must be nominated by an Australian State or Territory government agency or Austrade.</b>
-                        <br><br>
-                        <li>Investor stream:</li>
-                        <b>For this, you will require at least AUD 1.5 million in an Australian state or territory and maintain your business and investment activity in Australia.</b>
-                        <br><br>
-                        <li>Significant investor stream: </li>
-                        <b>People willing to invest at least AUD 5 million in Australian investments can apply for this permit. They must be nominated by an Australian State or Territory government agency or Austrade.</b>
-                        <br><br>
-                        <li>Business innovation extension stream:</li>
-                        <b>Under this stream, Subclass 188 permit holders can extend their stay in Australia for 2 more years. For this extension, applicants must have had Business Innovation stream permit for at least 3 years and must be nominated by an Australian State or Territory government agency or Austrade.</b>
-                        <br><br>
-                        <li>Significant investor extension stream:</li>
-                        <b>Under this stream, permit-holders of the Significant Investor stream can extend their stay in Australia for up to 4 more years. For this extension applicants must have had Significant Investor stream for at least 3 years and must be nominated by an Australian State or Territory government agency or Austrade.</b>
-                        <br><br>
-                        <li>Premium Investor stream:</li>
-                        <b>This permit stream requires nomination by Austrade and an investment of at least AUD 15 million in Australian enterprises or in philanthropic contribution.</b>
-                        <br><br>
-                        <li>Entrepreneur stream:</li>
-                        <b>With a permit under this stream, you can carry out entrepreneurial activities in Australia.</b>     
+                        <li><b>Be hired and employed outside the UK by a business or organization that has its headquarters or principal place of business outside the UK </b></li>
+                        <li><b>Possess the skills, experience and knowledge required for the role</b></li>
+                        <li><b>Have full authority to make decisions on behalf of the company (but do not own or control the majority of it) and have a top position in the company </b></li>
+                        <li><b>Aim to open a registered branch or a completely owned subsidiary in the UK as the overseas company’s initial commercial presence</b></li>
                     </ul>
+                    <p><b>You may also be qualified if your company has a legal entity in the United Kingdom that does not employ anyone or conduct any activity.</b></p>
+                    <p><b>You can replace a prior sole representative if your firm has been seeking to establish a UK branch or subsidiary but it has not yet been established.</b></p>
                     </div>
                     
         
@@ -86,17 +69,9 @@ require("./../../../partials/header.php");
                 <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>STEPS TO APPLY FOR A PROVISIONAL BUSINESS PERMIT</b></h1>
+                <h1><b>STAYING IN THE UK</b></h1>
             </div>
-            
-                        <ul class="listnone check-circle">
-                            <li>You must submit an expression of interest through the Department of home affairs.</li>
-                            <li>You must wait for a nomination from a state or territory or from Austrade by waiting for an intimation from them or you can contact them directly</li>
-                            <li>Once you receive an invitation you can apply for a provisional business permit.</li>
-                            
-                            
-                        </ul>
-                        
+                  <p><b>The UK permit allows you to remain in the UK for a maximum of 3 years. You can then apply for a 2-year extension. You may apply for settlement after 5 years in the UK.</b></p>      
                     </div>
                 </div>
             </div>
@@ -108,22 +83,14 @@ require("./../../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>THE BUSINESS OF THE PERMIT HOLDER MUST DO ANY ONE OF THE FOLLOWING ACTIVITIES</b></h1>
+                <h1><b>BRINGING DEPENDENTS ON THE VISA</b></h1>
             </div>
             </div>
                     </div>
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <ul class="listnone check-circle">
-                        <li>Build business links with international markets</li>
-                        <li>Generate employment in Australia
-</li>
-                        <li>Use Australian goods and services
-</li>
-                        <li>Produce goods or provide services that would alternatively have to be imported
-</li>
-                        <li>Create new and improved technology
-</li>           
-                    </ul>
+                    <p><b>If you hold a UK permit for sole representatives, you are allowed to bring your family members with you. If your dependents are from outside the UK, they will need separate permits.</b></p>
+                    <p><b>Your husband, wife, or partner, as well as your child under the age of 18, can be considered dependents.</b></p>
+                    <p><b>You may not bring your dependents with you if they own the majority of the company you will be representing.</b></p>
                     </div>
                     
         
@@ -133,16 +100,27 @@ require("./../../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>PATH TO PERMANENT RESIDENCE</b></h1>
+                <h1><b>ADVANTAGES OF THE SOLE REPRESENTATIVE VISA</b></h1>
             </div>
             </div>
                     </div>
+                    <div class="bg-light space-medium">
+            <div class="container">
+                <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <p><b>The Subclass 188 permit can help you gain permanent residency in Australia. If you have been on a Subclass 188 for at least a year and meet the financial conditions, you can apply for your permanent residence. Aside from that, you will have to show that you have a long-term commercial interest by making frequent investments and hiring local staff.</b></p>
+                    <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
+                <h1><b>ADVANTAGES OF THE SOLE REPRESENTATIVE VISA</b></h1>
+            </div>
+                  <p><b>If sole representatives are successful in the first 3 months of their stay, they can request for a 2-year permit extension.</b></p>      
+                  <p><b>Applicants may be eligible to seek for permanent residency after 5 years.</b></p>      
+                  <p><b>Applicants may be entitled to seek for British nationality after 6 years.</b></p>      
+                  <p><b>Sole representatives can qualify for 10 years of residency by combining time spent in the UK with other permit categories.</b></p>      
+                  <p><b>Businesses looking to expand can send a single senior employee to the United Kingdom to study and test the market without having to spend a lot of money.</b></p>      
                     </div>
-                    
-        
                 </div>
+            </div>
+        
+        </div>
         
         
             </div>           
