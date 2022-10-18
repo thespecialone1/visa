@@ -8,7 +8,7 @@ require("./../../../partials/header.php");
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>UK PERMIT FOR INNOVATORS</b></h1>
+                <h1><b class="font-weight-bold">UK PERMIT FOR INNOVATORS</b></h1>
             </div>
             <p>The UK grants permit for new entrepreneurs who want to start a business in the United Kingdom for the first time. You don’t have to be a graduate or have any upfront funding..</p>
             <p>You must, however, have a feasible, scalable, and unique business idea that has been approved by an endorsing body.</p>
@@ -22,7 +22,7 @@ require("./../../../partials/header.php");
                 </div>
             </div>
             <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>ELIGIBILITY REQUIREMENTS:</b></h1>
+                <h1><b class="font-weight-bold">ELIGIBILITY REQUIREMENTS:</b></h1>
             </div>
             <ul class="listnone check-circle">
                             <li>Must be over the age of 18</li>
@@ -60,7 +60,7 @@ require("./../../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>STAYING IN THE UK</b></h1>
+                <h1><b class="font-weight-bold">STAYING IN THE UK</b></h1>
             </div>
             </div>
                     </div>
@@ -79,7 +79,7 @@ require("./../../../partials/header.php");
                 <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>WHAT YOU CAN DO WITH THIS PERMIT</b></h1>
+                <h1><b class="font-weight-bold">WHAT YOU CAN DO WITH THIS PERMIT</b></h1>
             </div>
             
                         <p><b>You can bring your dependents including your spouse or partner and children under the age of 18. Though you will spend the most of your time in the UK working on your business, you can supplement your income by working outside your business. You are also free to travel outside the UK.</b></p>

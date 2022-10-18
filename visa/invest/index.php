@@ -8,7 +8,7 @@ require("./../../partials/header.php");
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>INVESTOR ABROAD: SETTLE OVERSEAS WITH YOUR FAMILY</b></h1>
+                <h1><b class="font-weight-bold">INVESTOR ABROAD: SETTLE OVERSEAS WITH YOUR FAMILY</b></h1>
             </div>
             <p><b>The Investment or Business permit is offered by countries to encourage people with a proven business track record and a genuine intent in developing a business overseas to invest in their country.</b></p>
             <p><b>This can be either a new business venture or buying an existing overseas business. Australia and Canada have an Immigrant Investor Program that’s a rank above similar programs offered by other countries.</b></p>
@@ -24,7 +24,7 @@ require("./../../partials/header.php");
                 </div>
             </div>
             <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>BENEFITS OF SETTLING ABROAD AS AN ENTREPRENEUR</b></h1>
+                <h1><b class="font-weight-bold">BENEFITS OF SETTLING ABROAD AS AN ENTREPRENEUR</b></h1>
             </div>
                         <p><b>The permanent residency programs for investors and entrepreneurs are typically designed to offer individual as well as business benefits. The best such immigration programs offer benefits like:</b></p>
                         <ul class="listnone check-circle">
@@ -46,7 +46,7 @@ require("./../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>ELIGIBILITY FOR ENTREPRENEURS & INVESTORS</b></h1>
+                <h1><b class="font-weight-bold">ELIGIBILITY FOR ENTREPRENEURS & INVESTORS</b></h1>
             </div>
             <p class="font-weight-bold">Different countries have different criteria to assess applicant eligibility. Broadly, the assessment criteria are:</p>
             </div>
@@ -75,7 +75,7 @@ require("./../../partials/header.php");
                 <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>QUALIFIED ADVICE</b></h1>
+                <h1><b class="font-weight-bold">QUALIFIED ADVICE</b></h1>
             </div>
             <p class="font-weight-bold">World Wde Immigration helps investors and entrepreneurs take the right decisions with our comprehensive immigration solutions. We analyze your profile and suggest the best solution that meets your personal and business goals.</p>
                         <ul class="listnone check-circle">
