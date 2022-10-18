@@ -8,7 +8,7 @@ require("./../../../partials/header.php");
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                    <h1><b>OPEN A BRANCH IN CANADA</b></h1>
+                    <h1><b class="font-weight-bold">OPEN A BRANCH IN CANADA</b></h1>
                 </div>
                 <p><b>Foreign companies that are looking at expanding their business in Canada have the option of opening a subsidiary company or a branch office. If they opt to open a branch office, they will have to fulfil specific requirements.</b></p><br>
                 <p><b>In order to set up a branch office in Canada and bring in employees from their main office or other offices, the company can make use of the Intra Company Transfer Work Permit.</b></p><br>
@@ -28,7 +28,7 @@ require("./../../../partials/header.php");
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                    <h1><b>APPLICATION REQUIREMENTS</b></h1>
+                    <h1><b  class="font-weight-bold">APPLICATION REQUIREMENTS</b></h1>
                 </div>
                 <p><b>To be eligible you must:</b></p>
               
@@ -44,7 +44,7 @@ require("./../../../partials/header.php");
             <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                        <h1><b>BENEFITS OF INTRA-COMPANY TRANSFER PERMIT</b></h1>
+                        <h1><b  class="font-weight-bold">BENEFITS OF INTRA-COMPANY TRANSFER PERMIT</b></h1>
                     </div>
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <ul class="listnone check-circle">
@@ -66,7 +66,7 @@ require("./../../../partials/header.php");
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                    <h1><b>REGISTRATION PROCESS</b></h1>
+                    <h1><b  class="font-weight-bold">REGISTRATION PROCESS</b></h1>
                 </div>
                 <p><b>In order to open a branch office, the foreign company must make an application for registration as a foreign corporation in every province where it intends to operate. It should register itself as an extra provincial or foreign corporation.</b></p>
                 <p><b>The company should have a registered Canadian address and a Canadian resident attorney or agent is required for local representation.</b></p>

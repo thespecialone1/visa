@@ -8,7 +8,7 @@ require("./../../../partials/header.php");
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                    <h1><b>PERMIT FOR STARTUPS IN CANADA</b></h1>
+                    <h1><b class="font-weight-bold">PERMIT FOR STARTUPS IN CANADA</b></h1>
                 </div>
                 <p><b>Canada has a program to grant permit for start-ups in the country. It aims to recruit dynamic entrepreneurs from around the world, bring them to Canada, and equip them with the resources they need (including money) to establish businesses that employ Canadians.</b></p>
                 <p><b>The program designed by Canada for start-ups/entrepreneurs encourages immigrant entrepreneurs to develop their start-ups in Canada. Successful applicants can tie up with private companies in Canada and receive help on funding and guidance on running their business.</b></p>
@@ -26,7 +26,7 @@ require("./../../../partials/header.php");
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                    <h1><b>ELIGIBILITY REQUIREMENTS TO APPLY FOR PERMIT:</b></h1>
+                    <h1><b class="font-weight-bold">ELIGIBILITY REQUIREMENTS TO APPLY FOR PERMIT:</b></h1>
                 </div>
                 <p><b>To be eligible you must:</b></p>
                 <ul class="listnone check-circle">
@@ -50,7 +50,7 @@ require("./../../../partials/header.php");
             <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                        <h1><b>Qualifying for a work permit and later permanent residence under the Start-up Visa Program</b></h1>
+                        <h1><b class="font-weight-bold">Qualifying for a work permit and later permanent residence under the Start-up Visa Program</b></h1>
                     </div>
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <p><b>After acquiring the Commitment certificate from a designated entity, the candidate can apply for a work permit.</b></p>
@@ -67,7 +67,7 @@ require("./../../../partials/header.php");
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                    <h1><b>PROCESSING TIME FOR WORK PERMIT AND PR VISA</b></h1>
+                    <h1><b class="font-weight-bold">PROCESSING TIME FOR WORK PERMIT AND PR VISA</b></h1>
                 </div>
                 <p><b>The commitment letter or letter of support will take roughly 4 to 6 months if the entrepreneur has a viable business proposal. After receiving this letter, the candidate can apply for permanent residence. The processing time for permanent residence is estimated to be 18 months.</b></p>
                 <p><b>The program to grant permit to start-ups doesn’t require applicants to invest their own money in the business. This program can be a pathway to permanent residence for immigration candidates who want to be entrepreneurs.</b></p>

@@ -8,7 +8,7 @@ require("./../../../partials/header.php");
             <div class="row">
                 <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>UK PERMIT FOR SOLE REPRESENTATIVES</b></h1>
+                <h1><b class="font-weight-bold">UK PERMIT FOR SOLE REPRESENTATIVES</b></h1>
             </div>
             <p>The UK allows foreign enterprises to establish a commercial presence in the UK by sending a senior representative (Sole representative). </p>
             <p>Foreign corporations are given permits to enable them establish a branch or subsidiary of their parent company in the United Kingdom.</p>
@@ -22,7 +22,7 @@ require("./../../../partials/header.php");
                 </div>
             </div>
             <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>WHO IS A SOLE REPRESENTATIVE?</b></h1>
+                <h1><b class="font-weight-bold">WHO IS A SOLE REPRESENTATIVE?</b></h1>
             </div>
             <p><b>A sole representative is a foreign national who is:</b></p>
             <ul class="listnone check-circle">
@@ -45,7 +45,7 @@ require("./../../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>ELIGIBILITY REQUIREMENTS</b></h1>
+                <h1><b class="font-weight-bold">ELIGIBILITY REQUIREMENTS</b></h1>
             </div>
             </div>
                     </div>
@@ -100,7 +100,7 @@ require("./../../../partials/header.php");
                     <div class="col-xl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class="heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>ADVANTAGES OF THE SOLE REPRESENTATIVE VISA</b></h1>
+                <h1><b class="font-weight-bold">ADVANTAGES OF THE SOLE REPRESENTATIVE VISA</b></h1>
             </div>
             </div>
                     </div>
@@ -109,7 +109,7 @@ require("./../../../partials/header.php");
                 <div class="row">
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                     <div class=" heading-border-style textleft-onlgscreen-textcenter-onsmscreen ">
-                <h1><b>ADVANTAGES OF THE SOLE REPRESENTATIVE VISA</b></h1>
+                <h1><b class="font-weight-bold">ADVANTAGES OF THE SOLE REPRESENTATIVE VISA</b></h1>
             </div>
                   <p><b>If sole representatives are successful in the first 3 months of their stay, they can request for a 2-year permit extension.</b></p>      
                   <p><b>Applicants may be eligible to seek for permanent residency after 5 years.</b></p>      
