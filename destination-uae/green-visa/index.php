@@ -151,7 +151,7 @@ require("./../../partials/header.php");
 
 
                 
-<div class="d-flex mb40 justify-content-center">
+<div class="d-flex mb20 justify-content-center">
                     <a href="#" class="btn btn-primary">Get Counseled</a>
                 </div>
 
@@ -164,6 +164,95 @@ require("./../../partials/header.php");
     </div>
 </div>
 
+
+<div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="faq-header">
+                        <h2 class="faq-title text-primary font-weight-bold">FAQ</h2>
+                        <p>Some frequently asked questions regarding Goden Visa.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div id="accordion">
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="accordion-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Who qualifies for a green visa in UAE?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>Three types of expats can apply for the green visa: Freelancers or self-employed individuals, investors or associates in commercial businesses, and highly skilled workers.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingTwo">
+                                <h5 class="mb0">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    What is the validity of a green visa in the UAE?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>The UAE green visa’s validity has been raised to five years, instead of two years earlier. It was introduced to encourage investors or partners to invest in this Gulf country. Residency is provided for five years to investors who establish or take part in commercial activities in the UAE.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingFour">
+                                <h5 class="mb0">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Who can avail the new green visa in the UAE?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>Eligible for a green visa in the UAE are people who invest and are business partners in a commercial activity, in addition to freelancers and workers with expertise. The UAE cabinet approved the green visa, according to Decision No 65 for 2022.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingFive">
+                                <h5 class="mb0">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What are the benefits of the UAE Green Visa?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>Holders of the UAE Green Visa will easily be able to obtain residency permits for their children, spouse, and close relatives. They will also be in a position to sponsor their male children who are age above 25 and their daughters, irrespective of their age.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-5 card-accordion">
+                            <div class="card-accordion-header" id="headingThree">
+                                <h5 class="mb-0">
+                                <button class="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                What’s the difference between the Green Visa and employment or work visa?
+                                </button>
+                              </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>The main difference between UAE work visa and UAE work visa is: Green Visa allows to stay in the UAE and work without being sponsored by an employer whereas for the UAE work visa you need to have employer sponsorship..</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="mt-5"></div>
 
 <?php
 require("./../../partials/footer.php");
