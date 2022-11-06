@@ -71,7 +71,7 @@
                         <!-- navigation -->
                         <ul>
                             <li>
-                                <a href="/migrate">Canada</a>
+                                <a>Canada</a>
                                 <ul>
 
                                     <li><a href="/migrate/canada/">Migrate</a></li>
@@ -85,7 +85,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="/visa/study">Australia</a>
+                                <a>Australia</a>
                                 <ul>
 
                                     <li><a href="/migrate/australia/">Migrate</a></li>
@@ -98,7 +98,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="/visa/business">Germany </a>
+                                <a>Germany </a>
                                 <ul>
 
                                     <li><a href="/migrate/germany/">Migrate</a></li>
@@ -110,7 +110,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="/visa/pr">USA</a>
+                                <a>USA</a>
                                 <ul>
 
                                     <li><a href="/migrate/usa/">Migrate</a></li>
@@ -122,7 +122,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="/visa/visit">UK</a>
+                                <a>UK</a>
                                 <ul>
 
                                     <li><a href="/migrate/uk/">Migrate</a></li>
