@@ -134,11 +134,11 @@
 
                                 </ul>
                             </li>
-                            <li><a href="#">About Us </a>
+                            <li><a href="/destination-uae/">UAE</a>
                                 <ul>
 
-                                    <li><a href="./../founder-page.html">Founder page</a></li>
-                                    <li><a href="./../founder-page.html">Founder page</a></li>
+                                    <li><a href="/destination-uae/golden-visa/">Golden Visa</a></li>
+                                    <li><a href="/destination-uae/green-visa/">Green Visa</a></li>
                                     <li><a href="./../agent-list-page.html">Agent List</a></li>
                                     <li><a href="./../agent-single-page.html">Agent Single</a></li>
                                     <li><a href="./../partner-university-page.html">Partner University Page</a></li>
