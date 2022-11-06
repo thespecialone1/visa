@@ -175,6 +175,110 @@ require("./../../partials/header.php");
     </div>
 
 
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="faq-header">
+                        <h2 class="faq-title text-primary font-weight-bold">FAQ</h2>
+                        <p>Some frequently asked questions regarding Goden Visa.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div id="accordion">
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="accordion-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What exactly is a Golden visa?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p> A golden visa is a type of grant provided to high-net-worth individuals who want to invest substantially in a country in order to live there. Governments make use of golden visas to increase their tax base.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingTwo">
+                                <h5 class="mb0">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Why does the UAE attract investors?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>The UAE has evolved as a haven for entrepreneurs and entrepreneurs because of its business-friendly environment and the tax-free benefits its offers.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingFour">
+                                <h5 class="mb0">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    What eligibility criteria do the foreign investors need to fulfill to get a Golden visa?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>They should deposit at least AED10 million in a UAE investment fund.
+<br><br>
+They need to own companies with AED10 million as capital investment or need to be partners in companies with a share of a minimum of AED10 million.
+<br><br>
+They should own the investment funds fully owned instead of being funded through a loan and providing sufficient proof
+<br><br>
+Applicants should have been investors in the UAE for a minimum of three years
+<br><br>
+Applicants should have insurance documents to cover themselves and their family members.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingFive">
+                                <h5 class="mb0">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What eligibility criteria should be fulfilled for securing the Golden visas?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>A professor from any one of the top 500 universities of the world that are recognized by the ministry of education.
+<br><br>
+They must have obtained awards or certificates of appreciation in their areas of expertise
+<br><br>
+Scientists who have contributed significantly to a study discipline
+<br><br>
+They can be PhDs with practical experience of 20 years in their field of specialty
+<br><br>
+They can also be experts in fields pertinent to the UAE</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-5 card-accordion">
+                            <div class="card-accordion-header" id="headingThree">
+                                <h5 class="mb-0">
+                                <button class="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Who are eligible for the UAE Golden visa?
+                                </button>
+                              </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                <div class="card-accordion-body">
+                                    <p>The UAE has increased the scope of individuals who can obtain a Golden visa. The country began offering 10-year Golden visas to physicians, engineers, and doctorate holders from UAE-accredited universities who have scored a GPA of a minimum of 3.8.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<div class="mt-5"></div>
 <?php
 require("./../../partials/footer.php");
 ?>
