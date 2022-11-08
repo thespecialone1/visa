@@ -34,10 +34,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-1.jpg" alt="" class="img-fluid">
+                        <img src="./images/University of Toronto.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Toronto</a></h3>
-                           <img src="./../../../images/country/canada.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
                         </div>
                      </div>
                   </div>
@@ -45,10 +44,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-2.jpg" alt="" class="img-fluid">
+                        <img src="./images/University of British Colombia.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of British Colombia</a></h3>
-                           <img src="./../../../images/country/australia.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
                         </div>
                      </div>
                   </div>
@@ -56,10 +54,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-3.jpg" alt="" class="img-fluid">
+                        <img src="./images/University of Alberta.jpeg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Alberta</a></h3>
-                           <img src="./../../../images/country/united-kingdom.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
                         </div>
                      </div>
                   </div>
@@ -67,10 +64,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-4.jpg" alt="" class="img-fluid">
+                        <img src="./images/Waterloo.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Waterloo</a></h3>
-                           <img src="./../../../images/country/new-zealand.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
                         </div>
                      </div>
                   </div>
@@ -78,10 +74,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-5.jpg" alt="" class="img-fluid">
+                        <img src="./images/University of Ottawa.webp" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Ottawa</a></h3>
-                           <img src="./../../../images/country/south-africa.svg" alt="" class="flag-small border rounded-circle border-thick mr-0 ">
                         </div>
                      </div>
                   </div>
@@ -89,10 +84,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-6.jpg" alt="" class="img-fluid">
+                        <img src="./images/Mc Gill University.webp" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">Mc Gill University</a></h3>
-                           <img src="./../../../images/country/united-states-of-america.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
                         </div>
                      </div>
                   </div>

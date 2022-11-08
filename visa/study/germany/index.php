@@ -40,10 +40,10 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img  zoomimg">
-                        <img src="./../../../images/Australian National University.jpg" alt=""  class="img-fluid ">
+                        <img src="./images/Technische Universität München.jpg" alt=""  class="img-fluid ">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Technische Universität München</a></h3>
-                           <img src="https://img.icons8.com/color/30/000000/27.png"/>
+                           
                         </div>
                      </div>
                   </div>
@@ -51,10 +51,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-1.jpg" alt="" class="img-fluid">
+                        <img src="./images/Ludwig-Maximilians-Universität München.jpeg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Ludwig-Maximilians-Universität München</a></h3>
-                           <img src="https://img.icons8.com/color/30/000000/37.png"/>
                         </div>
                      </div>
                   </div>
@@ -62,10 +61,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Sydny.jpg" alt="" class="img-fluid">
+                        <img src="./images/Ruprecht-Karls-Universität Heidelberg.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Ruprecht-Karls-Universität Heidelberg</a></h3>
-                           <img src="https://img.icons8.com/color/30/000000/38.png"/>
                         </div>
                      </div>
                   </div>
@@ -73,10 +71,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of New South Wales.jpg" alt="" class="img-fluid">
+                        <img src="./images/Humboldt-Universität zu Berlin.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Humboldt-Universität zu Berlin</a></h3>
-                           <img src="https://img.icons8.com/color/30/000000/43.png"/>
                         </div>
                      </div>
                   </div>
@@ -84,10 +81,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Queensland.jpg" alt="" class="img-fluid">
+                        <img src="./images/Freie Universität Berlin.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Freie Universität Berlin</a></h3>
-                           <img src="https://img.icons8.com/color/30/000000/47.png"/>
                         </div>
                      </div>
                   </div>
@@ -95,10 +91,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/Monash.jpg" alt="" class="img-fluid">
+                        <img src="./images/Technische Universität Berlin.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">Technische Universität Berlin</a></h3>
-                           <img src="https://img.icons8.com/color/30/000000/58.png"/>
                         </div>
                      </div>
                   </div>
@@ -106,10 +101,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Western Australia.jpg" alt="" class="img-fluid object-fit">
+                        <img src="./images/Technische Universität Dresden.jpg" alt="" class="img-fluid object-fit">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">Technische Universität Dresden</a></h3>
-                           <img src="https://img.icons8.com/color/30/000000/93.png"/>
                         </div>
                      </div>
                   </div>
@@ -117,10 +111,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Adelaide.jpg"  alt="" class="img-fluid">
+                        <img src="./images/Universität Freibur.jpg"  alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">Universität Freiburg</a></h3>
-                           <img src="./../../../images/country/new-zealand.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
                         </div>
                      </div>
                   </div>
@@ -128,10 +121,9 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Technology Sydney.jpg" alt="" class="img-fluid">
+                        <img src="./images/Eberhard Karls Universität Tübingen.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">Eberhard Karls Universität Tübingen</a></h3>
-                           <img src="./../../../images/country/south-africa.svg" alt="" class="flag-small border rounded-circle border-thick mr-0 ">
                         </div>
                      </div>
                   </div>
