@@ -40,7 +40,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img  zoomimg">
-                        <img src="./../../../images/Australian National University.jpg" alt=""  class="img-fluid ">
+                        <img src="./images/cambridge-university.jpg" alt=""  class="img-fluid ">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Cambridge</a></h3>
                            
@@ -51,7 +51,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/location-img-1.jpg" alt="" class="img-fluid">
+                        <img src="./images/oxford.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University of Oxford</a></h3>
                            
@@ -62,7 +62,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Sydny.jpg" alt="" class="img-fluid">
+                        <img src="./images/UCL_London.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">University College London</a></h3>
                            
@@ -73,7 +73,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of New South Wales.jpg" alt="" class="img-fluid">
+                        <img src="./images/imperial.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">Imperial College London</a></h3>
                            
@@ -84,7 +84,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Queensland.jpg" alt="" class="img-fluid">
+                        <img src="./images/KCL.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white ">King's college London</a></h3>
                            
@@ -95,7 +95,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/Monash.jpg" alt="" class="img-fluid">
+                        <img src="./images/Edinburgh.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Edinburgh</a></h3>
                         </div>
@@ -105,7 +105,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Western Australia.jpg" alt="" class="img-fluid object-fit">
+                        <img src="./images/manchester.webp" alt="" class="img-fluid object-fit">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Manchester</a></h3>
                            
@@ -116,7 +116,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Adelaide.jpg"  alt="" class="img-fluid">
+                        <img src="./images/LSE.jpg"  alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">London School of Economics</a></h3>
                            <img src="./../../../images/country/new-zealand.svg" alt="" class="flag-small border rounded-circle border-thick mr-0">
@@ -127,7 +127,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Technology Sydney.jpg" alt="" class="img-fluid">
+                        <img src="./images/download.jpeg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Bristol</a></h3>
                            
@@ -138,7 +138,7 @@ require("./../../../partials/header.php");
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                   <div class="location-block">
                      <div class="location-img zoomimg">
-                        <img src="./../../../images/University of Technology Sydney.jpg" alt="" class="img-fluid">
+                        <img src="./images/warwick.jpg" alt="" class="img-fluid">
                         <div class="location-img-overlay d-flex justify-content-between ">
                            <h3 class="pt-1 mb-0"><a href="#" class="text-white">University of Warwick</a></h3>
                            
