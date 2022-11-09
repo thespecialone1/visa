@@ -4,11 +4,11 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-8 col-lg-8 col-md-7 col-sm-6 col-12">
-                                <h2 class="mb10 text-white">Free online assessment</h2>
-                                <p>Fusce venenatis lectus non est congue vitae malesuada neque lacinia. </p>
+                                <h2 class="mb10 text-white">Need Help? Get Free Consultation</h2>
+                                <p>Fill a short form and we will call you back! </p>
                             </div>
                             <div class="col-xl-4 col-lg-4 col-md-5 col-sm-6 col-12 text-center">
-                                <a href="#" class="btn btn-secondary btn-lg mt10">Get Free Assessment</a>
+                                <a href="/get-counseled.php" class="btn btn-secondary btn-lg mt10">Get Free Consultation</a>
                             </div>
                         </div>
                     </div>
