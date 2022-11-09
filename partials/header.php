@@ -50,7 +50,7 @@
                             <span class="header-link d-none d-xl-block d-md-block"><a href="#">Talk to Our Expert</a></span>
                             <span class="header-link">+1 800 123 4567</span>
                             <span class="header-link"> <button type="submit" class="" data-toggle="modal" data-target="#searchModal"> <i class="fa fa-search text-white"></i></button></span>
-                            <span class="header-link"><a href="#" class="btn btn-secondary btn-sm">Apply Now</a></span>
+                            <span class="header-link"><a href="get-counseled.php" class="btn btn-secondary btn-sm">Apply Now</a></span>
                         </div>
                     </div>
                 </div>
