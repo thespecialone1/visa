@@ -260,99 +260,130 @@ require("./../../../partials/header.php");
     <div class="d-flex justify-content-center pdt0 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb30">
                     
                     <br>
-                    <a href="#" class="btn btn-outline-primary btn-lg mb20">GET COUNSELED </a>
+                    <a href="/get-counseled.php" class="btn btn-outline-primary btn-lg mb20">GET COUNSELED </a>
                 </div>
 
 
-                <div class="content">
-        <div class="container">
-            <div class="row">
-                <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div class="faq-header">
-                        <h2 class="faq-title text-primary ">Frequently Asked Questions</h2>
-                        <p>Suspendisse quis pretium nequen cursus risus sit amet eleifend consequat.</p>
-                    </div>
+ 
+<div class="content">
+    <div class="container">
+        <div class="row">
+            <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="faq-header">
+                    <h2 class="faq-title text-primary ">Frequently Asked Questions</h2>
+
                 </div>
             </div>
-            <div class="row">
-                <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
-                    <div id="accordion">
-                        <div class="card-accordion">
-                            <div class="card-accordion-header" id="headingOne">
-                                <h5 class="mb-0">
-                                    <button class="accordion-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What are the steps to study in Canada?
-                                    </button>
-                                </h5>
-                            </div>
-                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                                <div class="card-accordion-body">
-                                    <span>
-                                        
-<p>You have to follow the below steps to study in Canada. </p>
-
-<b>Step 1: Research Your Options</b>
-<br>
-<p>Before you shortlist the universities, decide what you want to study, where you want to live, overall cost, various opportunities etc.</p>
-<br>
-<b>Step 2: Select Universities</b>
-<br>
-Shortlist the universities (about 10 universities should do) and study programs that meet your requirements and you want to apply for.
-<br>
-<br>
-<b>Step 3: Prepare for entrance exams</b>
-<br>
-Prepare for the standardized tests like TOEFL/GRE/GMAT/IELTS etc. based on the requirements of the universities and colleges. Register for these tests in advance. While applying for the tests you should also plan for the time required in case you need to retake the test. You should complete these tests before September of the academic year you wish to apply.
-<br>
-<br>
-<b>Step 4: Finance your studies</b>
-<br>
-Ensure that you have the money ready for your entire period of study in Canada along with accommodation, local travel, food, and other miscellaneous expenses. Decide on how you will finance your studies – personal savings, education loans, student scholarships, or assistantship.
-<br><br>
-<b>Step 5: Apply to the university</b>
-<br>
-Contact each university directly for the admission requirements. Every university has its own admission requirements. Complete the applications well before deadlines and send them.
-<br><br>
-<b>Step 6: Confirm admission</b>
-<br>
-Once you get your acceptance letters from the universities that you have applied to, choose the university you would like to study at. The next step is to pay a non-refundable deposit to the university to confirm your admission.
-<br><br>
-<b>Step 7: Get a Study permit</b>
-<br>
-Once you get admission confirmation done, you can apply for your study permit.
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-accordion">
-                            <div class="card-accordion-header" id="headingTwo">
-                                <h5 class="mb0">
-                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                      What elementum erat at turpis porttitor luctus?
-                                    </button>
-                                </h5>
-                            </div>
-                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                                <div class="card-accordion-body">
-                                    <p>Cras sollicitudin tellus ac tellus tincidunt lacinia. Vestibulum in orci dictum, scelerisque sapien vel, bibendum purus. Praesent purus eros, pretium sollicitudin ex et, finibus hendrerit diam.</p>
-                                    <p>In nulla turpis, sodales quis magna at, fermentum auctor elit. Ut egestas turpis dui, in fringilla libero feugiat ut. Vivamus non laoreet risus. Suspendisse sodales nisi in eros suscipit, vitae blandit nunc fermentum. Phasellus iaculis interdum ipsum, non ullamcorper tellus blandit et.</p>
-                                    <p>Maecenas sed tortor bibendum, efficitur magna nec, consectetur est. Donec in erat ac urna ullamcorper suscipit scelerisque non lorem. Fusce pharetra libero in velit aliquam placerat. Donec eget scelerisque enim.</p>
-                                    <p>Vestibulum convallis lorem nisi, et blandit massa dapibus ut. Donec tristique sapien est, a feugiat dui interdum ut. Nulla convallis sapien nec orci pellentesque sagittis.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-accordion">
-                            <div class="card-accordion-header" id="headingThree">
-                                <h5 class="mb-0">
-                                <button class="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                 How ellentesque quam felis, tempor vel ante a, viverra luctus elit?
+        </div>
+        <div class="row">
+            <div class="offset-xl-1 col-xl-10 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div id="accordion">
+                    <div class="card-accordion">
+                        <div class="card-accordion-header" id="headingOne">
+                            <h5 class="mb-0">
+                                <button class="accordion-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                How much can I earn while studying in the USA?
                                 </button>
-                              </h5>
+                            </h5>
+                        </div>
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div class="card-accordion-body">
+                                <span>
+
+                                    <p>Overseas students in the US can earn a maximum of $12 hourly. But they can work for a maximum of 20 hours weekly. The earnings will differ based on the College and job. You can earn maximum money by working as an RA/TA.</p>
+                                </span>
                             </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                        </div>
+                    </div>
+                    <div class="card-accordion">
+                        <div class="card-accordion-header" id="headingTwo">
+                            <h5 class="mb0">
+                                <button class="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                What are the requirements for USA Student Visa?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                            <div class="card-accordion-body">
+                                <p>The US Student Visa requires submission of mandatory documents as well as supporting documents of academic and financial records. The following documents will be required:</p>
+                                <ul class="listnone check-circle">
+                                                    <li>A Passport that has a validity of minimum 6 months after your stay in the US
+                                                    </li>
+                                                    <hr>
+                                                    <li>Print out of the online application form DS -160</li>
+                                                    <hr>
+                                                    <li>Original and copy of the appointment letter for the interview</li>
+                                                    <hr>
+                                                    <li>Form I – 20 sent by the US University/College where you will study</li>
+                                                    <hr>
+                                                    <li>A confirmation receipt for payment of Visa fees</li>
+                                                    <hr>
+                                                    <li>Bank statement for a minimum of 3 years that show adequate funds for paying for the first year (can be of parent/guardian)</li>
+                                                    <hr>
+                                                    <li>Payslips</li>
+                                                    <hr>
+                                                    <li>Original Marks sheet or Provisional certificates</li>
+                                                    <hr>
+                                                    <li>Score sheet of exams like IELTS, GMAT, TOEFL, etc</li>
+                                                    <hr>
+                                                    
+                                                </ul>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-accordion">
+                        <div class="card-accordion-header" id="headingThree">
+                            <h5 class="mb-0">
+                                <button class="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                What is the minimum IELTS score required to study in the USA?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                            <div class="card-accordion-body">
+                                <p>US Universities/Colleges expect a minimum IELTS score of 6.5 bands and the higher the score the better. Majority of them will accept the application for admission with at least 6.5 scores. </p>
+                            </div>
+                        </div>
+                        <div class="card-accordion">
+                            <div class="card-accordion-header" id="headingFour">
+                                <h5 class="mb-0">
+                                    <button class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Can you work on a Student Visa USA?
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                                 <div class="card-accordion-body">
-                                    <p>Fusce consequat blandit massa ac viverra. Vivamus malesuada massa dui, feugiat porta sem cursus sed. Quisque diam odio, pretium sit amet tristique a, commodo vitae nunc. Maecenas eu velit libero. Nulla facilisi. Etiam eros sapien, bibendum ac molestie sed, aliquam eu nisi. </p>
-                                    <p>Aenean loborti vulputate diam, quis mattis tellus tincidunt a. Duis hendrerit sodales laoreet. Mauris rhoncus augue a fringilla lacinia. Vestibulum orci nibh, lacinia non viverra sit amet, tristique sed est.</p>
+                                    <p>Yes, overseas students can work in the US while studying with some restrictions. Those who are on the M-1 and F-1 Visa are permitted to work in specified training programs on-campus. They are not permitted to work outside the campus in the first year of study.</p>
+                                </div>
+                            </div>
+                            <div class="card-accordion">
+                                <div class="card-accordion-header" id="headingFiveSix">
+                                    <h5 class="mb-0">
+                                        <button class="collapsed" data-toggle="collapse" data-target="#collapseFiveSix" aria-expanded="false" aria-controls="collapseFiveSix">
+                                        How can I convert my B2 Visa to F1 Visa and what are the process and the cost?
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div id="collapseFiveSix" class="collapse" aria-labelledby="headingFiveSix" data-parent="#accordion">
+                                    <div class="card-accordion-body">
+                                        <p>The conversion to F-1 Visa from B-2Visa can be attempted only from within the US. Overseas applicants outside the US must file an application for F-1 Visa.</p>
+                                    </div>
+                                </div>
+                                <div class="card-accordion">
+                                    <div class="card-accordion-header" id="headingSix">
+                                        <h5 class="mb-0">
+                                            <button class="collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                            How do I decide which schools to apply to?
+                                            </button>
+                                        </h5>
+                                    </div>
+                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+                                        <div class="card-accordion-body">
+                                            <p>You need to research your options and be clear about your priorities. Go through the college search engines to check the accreditation of schools.</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -360,6 +391,7 @@ Once you get admission confirmation done, you can apply for your study permit.
                 </div>
             </div>
         </div>
+    </div>
 </div>
 
 <?php
