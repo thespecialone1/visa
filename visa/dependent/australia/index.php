@@ -18,7 +18,7 @@ require("./../../../partials/header.php")
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
-                <h2 class="page-title   text-shadow-black">Depenedent Visa to Australia</h2>
+                <h2 class="page-title   text-shadow-black">Depenedent Visa for Australia</h2>
             </div>
         </div>
     </div>
