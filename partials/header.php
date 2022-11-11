@@ -93,7 +93,7 @@
                                     <li><a href="/visa/study/australia/">Study Visa</a></li>
                                     <li><a href="/visa/visit/australia/">Visit Visa</a></li>
                                     <li><a href="/visa/business/australia/">Business Visa</a></li>
-                                    <li><a href="/visa/business/australia/">Dependent Visa</a></li>
+                                    <li><a href="/visa/dependent/australia/">Dependent Visa</a></li>
 
                                 </ul>
                             </li>
