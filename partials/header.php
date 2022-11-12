@@ -80,6 +80,7 @@
                                     <li><a href="/visa/study/canada/">Study Visa</a></li>
                                     <li><a href="/visa/visit/canada/">Visit Visa</a></li>
                                     <li><a href="/visa/business/canada/">Business Visa</a></li>
+                                    <li><a href="/visa/dependent/canada/">Dependent</a></li>
                                     
 
                                 </ul>
@@ -116,7 +117,7 @@
                                     <li><a href="/visa/study/usa/">Study Visa</a></li>
                                     <li><a href="/visa/visit/usa/">Visit Visa</a></li>
                                     <li><a href="/visa/business/usa/">Business Visa</a></li>
-                                    <li><a href="/visa/business/usa/">Dependent Visa</a></li>
+                                    <li><a href="/visa/dependent/usa/">Dependent Visa</a></li>
 
                                 </ul>
                             </li>

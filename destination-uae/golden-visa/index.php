@@ -2,7 +2,28 @@
 require("./../../partials/header.php");
 ?>
 
-<br><br><br><br><br>
+<style>
+    .card-img-top {
+        width: 100%;
+        height: 175px;
+        object-fit: cover;
+    }
+
+    .page-header {
+        background: url(images/dubai.webp) no-repeat center !important;
+    }
+</style>
+
+
+<div class="page-header ">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12">
+                <h2 class="page-title   text-shadow-black">Dubai Golden Visa</h2>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="content pdb0">
     <div class="container">
         <div class="row">
