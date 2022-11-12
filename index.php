@@ -1,6 +1,9 @@
 <?php
 require("./partials/header.php");
 ?>
+<?php
+require("./partials/wa-button.php");
+?>
 <!-- slider -->
 <!-- /.header classic -->
 <div class="slider mt-6">
@@ -35,6 +38,20 @@ require("./partials/header.php");
             </div>
         </div>
         <div class="item">
+            <img src="./../images/slider-large-4.jpg" alt="Immigration visa consultant HTML5 Template">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-sm-8 col-md-9 col-8">
+                        <div class="slider-captions">
+                            <h1 class="slider-title dotted-line">Visa to Anywhere</h1>
+                            <p class="slider-text">Move to your desired country for getting better educational opportunities. Earn a Higher Salary.</p>
+                            <a href="visa/study" class="btn btn-secondary btn-lg">Get Visa Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="item">
             <img src="./../images/slider-large-3.jpg" alt="Immigration Consulting Bootstrap Responsive Website Template">
             <div class="container">
                 <div class="row">
@@ -42,7 +59,7 @@ require("./partials/header.php");
                         <div class="slider-captions">
                             <h1 class="slider-title dotted-line">Travel Abroad</h1>
                             <p class="slider-text">Explore New Places and Experience Different Cultures. Get a Global Mind-Set </p>
-                            <a href="/visit" class="btn btn-secondary btn-lg">Get Visit Visa</a>
+                            <a href="/visa/visit/" class="btn btn-secondary btn-lg">Get Visit Visa</a>
                         </div>
                     </div>
                 </div>
@@ -505,12 +522,12 @@ require("./partials/header.php");
                     </li>
                     <li>Exam Preparation Information</li>
                 </ul>
-                <a href="#" class="btn btn-secondary">About World Wide Immigration</a> <a href="#" class="btn btn-primary">Contact us</a>
+                <a href="/contact-us/" class="btn btn-secondary">About World Wide Immigration</a> <a href="/get-counseled.php" class="btn btn-primary">Contact us</a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-5 col-sm-6 col-12">
                 <div class="img-block">
                     <img src="images/about-fancy-img-1.png" alt="simple bootstrap template" class="img-fluid">
-                    <span><a href="https://www.youtube.com/embed/kSoO2KjVVG4" class="btn-round-play video" id=""><i class="fa fa-play"></i></a></span>
+                    <span><a href="#" class="btn-round-play video" id=""><i class="fa fa-play"></i></a></span>
                 </div>
             </div>
         </div>

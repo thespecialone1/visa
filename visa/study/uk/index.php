@@ -1,7 +1,9 @@
 <?php
 require("./../../../partials/header.php");
 ?>
-
+<?php
+require("./../../../partials/wa-button.php");
+?>
 
 <br><br><br><br><br><br><br><br><br>
 

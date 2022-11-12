@@ -1,8 +1,8 @@
 <?php
 require("./partials/header.php");
-
-
-
+?>
+<?php
+require("./partials/wa-button.php");
 ?>
 <br><br><br><br><br>
 <h1 class="mt-5"></h1>

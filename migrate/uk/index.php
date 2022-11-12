@@ -1,6 +1,10 @@
 <?php
 require("./../../partials/header.php")
 ?>
+
+<?php
+require("./../../partials/wa-button.php");
+?>
 <style>
     .card-img-top {
         width: 100%;

@@ -1,7 +1,9 @@
 <?php
 require("./../../partials/header.php");
 ?>
-
+<?php
+require("./../../partials/wa-button.php");
+?>
 <br><br><br><br><br>
 <div class="space-medium py-5 mb10">
         <div class="container">

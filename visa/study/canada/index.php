@@ -1,6 +1,9 @@
 <?php
 require("./../../../partials/header.php");
 ?>
+<?php
+require("./../../../partials/wa-button.php");
+?>
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -417,7 +420,7 @@ require("./../../../partials/header.php");
     </div>
 </div>
 
-
+<a href="https://api.whatsapp.com/send?phone=3197010240285" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">Contact us on WhatsApp</a>
 <?php
 require("./../../../partials/footer.php");
 ?>

@@ -35,6 +35,13 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <!--JQuery-->  
+<script type="text/javascript" src="jquery-3.3.1.min.js"></script>  
+<!--Floating WhatsApp css-->  
+<link rel="stylesheet" href="floating-wpp.min.css">  
+<!--Floating WhatsApp javascript-->  
+<script type="text/javascript" src="floating-wpp.min.js"></script>
+
 </head>
 
 <body>
@@ -75,12 +82,20 @@
                                 <ul>
 
                                     <li><a href="/migrate/canada/">Migrate</a></li>
+                                    <li><a href="/visa/invest/">Invest</a>
+                                         <ul>
+                                                <li><a href="/visa/invest/canada-branch-open/">Branch Open</a></li>
+                                                <li><a href="/visa/invest/canada-startup/">Startup</a></li>
+                                                
+                                            </ul>
+                                    </li>
                                     <li><a href="/visa/pr/canada/express-entry/">PR Visa - Express Entry</a></li>
                                     <li><a href="/visa/pr/canada/provincial-nominee-program/">PR Visa - PNP</a></li>
                                     <li><a href="/visa/study/canada/">Study Visa</a></li>
                                     <li><a href="/visa/visit/canada/">Visit Visa</a></li>
                                     <li><a href="/visa/business/canada/">Business Visa</a></li>
                                     <li><a href="/visa/dependent/canada/">Dependent</a></li>
+                                    <li><a href="/visa/self-employed/">Self Employed</a></li>
                                     
 
                                 </ul>
@@ -90,6 +105,12 @@
                                 <ul>
 
                                     <li><a href="/migrate/australia/">Migrate</a></li>
+                                    <li><a href="/visa/invest/">Invest</a>
+                                         <ul>
+                                                <li><a href="/visa/invest/australia-business-innovation-stream/">Business Innovation Stream v1</a></li>
+                                                
+                                            </ul>
+                                    </li>
                                     <li><a href="/visa/pr/australia/">PR Visa</a></li>
                                     <li><a href="/visa/study/australia/">Study Visa</a></li>
                                     <li><a href="/visa/visit/australia/">Visit Visa</a></li>
@@ -126,6 +147,13 @@
                                 <ul>
 
                                     <li><a href="/migrate/uk/">Migrate</a></li>
+                                    <li><a href="/visa/invest/">Invest</a>
+                                         <ul>
+                                                <li><a href="/visa/invest/uk-innovator-visa/">Innovator Visa</a></li>
+                                                <li><a href="/visa/invest/uk-sole-representative-visa/">Sole Representative Visa</a></li>
+                                                
+                                            </ul>
+                                    </li>
                                     <li><a href="/visa/study/uk/">Study Visa</a></li>
                                     <li><a href="/visa/visit/uk/">Visit Visa</a></li>
                                     <li><a href="/visa/business/uk/">Business Visa</a></li>
