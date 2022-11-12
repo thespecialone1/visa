@@ -169,7 +169,7 @@ require("./../partials/wa-button.php");
 <div class="d-flex justify-content-center col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb30">
 
     <br>
-    <a href="#" class="btn btn-outline-primary btn-lg mb20">GET COUNSELED </a>
+    <a href="/get-counseled.php" class="btn btn-outline-primary btn-lg mb20">GET COUNSELED </a>
 </div>
 
 

@@ -114,7 +114,7 @@ require("./../../partials/wa-button.php");
                         <li>For the UK, if you apply from outside of the UK, you can get a decision on your visa within three weeks.</li>
                     </ul>
                     </div>
-                    </div class="mb40 mt40 d-flex  justify-content-center"><a href="#" class="btn btn-primary">Get Counseled</a>
+                    </div class="mb40 mt40 d-flex  justify-content-center"><a href="/get-counseled.php" class="btn btn-primary">Get Counseled</a>
             </div>
         
                 </div>

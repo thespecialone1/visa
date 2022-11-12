@@ -46,7 +46,7 @@ require("./../partials/wa-button.php");
                         
                 </div>
                 
-            </div></div class="mb40 mt40 d-flex  justify-content-center"><a href="#" class="btn btn-primary">Get Counseled</a>
+            </div></div class="mb40 mt40 d-flex  justify-content-center"><a href="/get-counseled.php" class="btn btn-primary">Get Counseled</a>
             </div>
         </div>
         

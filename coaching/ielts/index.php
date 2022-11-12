@@ -146,7 +146,7 @@ require("./../../partials/wa-button.php");
                             <li>While paying IELTS fees in Dubai, UAE</li>
                         </ul>
                     </span>
-                </div class="mb40 mt40 d-flex  justify-content-center"><a href="#" class="btn btn-primary">Get Counseled</a>
+                </div class="mb40 mt40 d-flex  justify-content-center"><a href="/get-counseled.php" class="btn btn-primary">Get Counseled</a>
             </div>
         </div>
 

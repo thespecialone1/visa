@@ -308,7 +308,7 @@ You must prepare a checklist of points before taking the big call, as it plays a
 <br>
 <span >We have listed the top courses to study for both Undergraduate and Postgraduate Study Programs.</span>
 </span>
-</div class="mb40 mt40 d-flex  justify-content-center"><a href="#" class="btn btn-primary">Get Counseled</a>
+</div class="mb40 mt40 d-flex  justify-content-center"><a href="/get-counseled.php" class="btn btn-primary">Get Counseled</a>
             </div>
                 </div>
                 
